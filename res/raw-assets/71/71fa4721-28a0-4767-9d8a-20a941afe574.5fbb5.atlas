@@ -1,0 +1,174 @@
+
+skin4.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-dingshang
+  rotate: false
+  xy: 751, 195
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+4-er1
+  rotate: false
+  xy: 612, 50
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+4-er2
+  rotate: false
+  xy: 701, 164
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+4-jiao1
+  rotate: true
+  xy: 1005, 235
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+4-jiao2
+  rotate: true
+  xy: 1005, 214
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+4-lan
+  rotate: true
+  xy: 634, 143
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+4-landai
+  rotate: true
+  xy: 2, 3
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+4-shen
+  rotate: false
+  xy: 554, 121
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+4-shou1
+  rotate: true
+  xy: 955, 216
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+4-shou2
+  rotate: false
+  xy: 612, 67
+  size: 22, 52
+  orig: 22, 52
+  offset: 0, 0
+  index: -1
+4-wuqi
+  rotate: false
+  xy: 554, 30
+  size: 56, 89
+  orig: 56, 89
+  offset: 0, 0
+  index: -1
+4-zhi1
+  rotate: true
+  xy: 634, 122
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+4-zhi2
+  rotate: false
+  xy: 701, 184
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+4-zui
+  rotate: false
+  xy: 554, 2
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+4-zuiye
+  rotate: false
+  xy: 792, 215
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+FX/effect5_02
+  rotate: false
+  xy: 698, 233
+  size: 137, 21
+  orig: 137, 21
+  offset: 0, 0
+  index: -1
+FX/effect5_03
+  rotate: false
+  xy: 554, 216
+  size: 142, 38
+  orig: 142, 38
+  offset: 0, 0
+  index: -1
+FX/zz1
+  rotate: false
+  xy: 2, 137
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1
+FX/zz2
+  rotate: false
+  xy: 2, 18
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1
+FX/zz3
+  rotate: false
+  xy: 186, 137
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1
+FX/zz4
+  rotate: false
+  xy: 186, 18
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1
+FX/zz5
+  rotate: false
+  xy: 370, 137
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1
+FX/zz6
+  rotate: false
+  xy: 370, 18
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 837, 217
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

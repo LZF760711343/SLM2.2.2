@@ -1,0 +1,76 @@
+
+effect.png
+size: 244,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/fx1_1
+  rotate: false
+  xy: 90, 119
+  size: 86, 57
+  orig: 86, 65
+  offset: 0, 5
+  index: -1
+FX/fx1_2
+  rotate: false
+  xy: 2, 47
+  size: 86, 61
+  orig: 86, 65
+  offset: 0, 4
+  index: -1
+FX/fx1_3
+  rotate: false
+  xy: 90, 178
+  size: 86, 62
+  orig: 86, 65
+  offset: 0, 2
+  index: -1
+FX/fx1_4
+  rotate: false
+  xy: 2, 176
+  size: 86, 64
+  orig: 86, 65
+  offset: 0, 1
+  index: -1
+FX/fx1_5
+  rotate: false
+  xy: 2, 110
+  size: 86, 64
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+FX/fx2_b_1
+  rotate: true
+  xy: 156, 53
+  size: 64, 53
+  orig: 64, 64
+  offset: 0, 5
+  index: -1
+FX/fx2_b_2
+  rotate: false
+  xy: 90, 60
+  size: 64, 57
+  orig: 64, 64
+  offset: 0, 3
+  index: -1
+FX/fx2_b_3
+  rotate: false
+  xy: 178, 124
+  size: 64, 56
+  orig: 64, 64
+  offset: 0, 4
+  index: -1
+FX/fx2_b_4
+  rotate: false
+  xy: 178, 182
+  size: 64, 58
+  orig: 64, 64
+  offset: 0, 3
+  index: -1
+FX/fx2_b_5
+  rotate: false
+  xy: 90, 2
+  size: 64, 56
+  orig: 64, 64
+  offset: 0, 6
+  index: -1

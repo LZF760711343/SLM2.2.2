@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"freeenergy","json":{"FreeEnergyConf":{"0":{"endTime":"14:00","endmsec":21600000,"id":0,"startTime":"12:00","startmsec":14400000,"value":30},"1":{"endTime":"20:00","endmsec":43200000,"id":1,"startTime":"18:00","startmsec":36000000,"value":30}}}}

@@ -1,0 +1,48 @@
+
+uieffect.png
+size: 454,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7171000_01
+  rotate: false
+  xy: 341, 1
+  size: 112, 120
+  orig: 128, 128
+  offset: 8, 0
+  index: -1
+7171000_02
+  rotate: true
+  xy: 297, 124
+  size: 112, 120
+  orig: 128, 128
+  offset: 8, 8
+  index: -1
+bg-baoxiang
+  rotate: false
+  xy: 1, 1
+  size: 164, 130
+  orig: 164, 130
+  offset: 0, 0
+  index: -1
+dge
+  rotate: true
+  xy: 167, 124
+  size: 114, 128
+  orig: 128, 128
+  offset: 14, 0
+  index: -1
+icon_dizuo
+  rotate: false
+  xy: 1, 133
+  size: 108, 66
+  orig: 108, 66
+  offset: 0, 0
+  index: -1
+魔法阵3
+  rotate: false
+  xy: 167, 1
+  size: 172, 121
+  orig: 174, 122
+  offset: 1, 0
+  index: -1

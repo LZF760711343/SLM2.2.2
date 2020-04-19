@@ -1,0 +1,111 @@
+
+skin4_fight2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-caihong
+  rotate: false
+  xy: 187, 70
+  size: 231, 154
+  orig: 231, 154
+  offset: 0, 0
+  index: -1
+4-cibang1
+  rotate: true
+  xy: 420, 46
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+4-cibang2
+  rotate: true
+  xy: 420, 120
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+4-hudiejie
+  rotate: true
+  xy: 461, 299
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+4-jiao1
+  rotate: false
+  xy: 479, 246
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+4-jiao2
+  rotate: false
+  xy: 488, 282
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+4-jiao3
+  rotate: false
+  xy: 488, 320
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+4-jiao4
+  rotate: true
+  xy: 461, 470
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+4-shen
+  rotate: true
+  xy: 461, 414
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+4-tou
+  rotate: true
+  xy: 187, 2
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+4-weiba
+  rotate: true
+  xy: 461, 361
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+4-yan
+  rotate: false
+  xy: 461, 217
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 226
+  size: 457, 281
+  orig: 457, 281
+  offset: 0, 0
+  index: -1
+FX/CHDZ
+  rotate: true
+  xy: 2, 13
+  size: 211, 183
+  orig: 211, 183
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 461, 281
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

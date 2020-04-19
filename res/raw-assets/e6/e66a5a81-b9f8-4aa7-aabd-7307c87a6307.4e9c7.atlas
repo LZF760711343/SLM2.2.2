@@ -1,0 +1,83 @@
+
+effect.png
+size: 1162,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian_1892
+  rotate: false
+  xy: 698, 122
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+bb
+  rotate: false
+  xy: 698, 5
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+ef_30
+  rotate: false
+  xy: 1088, 21
+  size: 72, 85
+  orig: 72, 85
+  offset: 0, 0
+  index: -1
+eff1_yw_01
+  rotate: true
+  xy: 1008, 12
+  size: 94, 78
+  orig: 94, 78
+  offset: 0, 0
+  index: -1
+effect5_03
+  rotate: false
+  xy: 903, 108
+  size: 256, 68
+  orig: 256, 68
+  offset: 0, 0
+  index: -1
+ice_nova_prep
+  rotate: false
+  xy: 2, 7
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+skill3_1
+  rotate: false
+  xy: 815, 178
+  size: 297, 59
+  orig: 297, 59
+  offset: 0, 0
+  index: -1
+sm
+  rotate: false
+  xy: 234, 7
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+zd
+  rotate: false
+  xy: 466, 7
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+zha_0002
+  rotate: true
+  xy: 815, 63
+  size: 113, 86
+  orig: 113, 86
+  offset: 0, 0
+  index: -1
+zhac_0003
+  rotate: true
+  xy: 903, 2
+  size: 104, 103
+  orig: 104, 103
+  offset: 0, 0
+  index: -1

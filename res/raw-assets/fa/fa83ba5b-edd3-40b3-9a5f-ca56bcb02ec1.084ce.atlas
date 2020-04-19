@@ -1,0 +1,104 @@
+
+effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_c_01
+  rotate: false
+  xy: 2, 6
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_02
+  rotate: true
+  xy: 390, 330
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_03
+  rotate: false
+  xy: 260, 264
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_04
+  rotate: false
+  xy: 132, 6
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_05
+  rotate: false
+  xy: 262, 68
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_06
+  rotate: false
+  xy: 262, 2
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_07
+  rotate: true
+  xy: 392, 134
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_08
+  rotate: true
+  xy: 392, 4
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+hit/b_b3
+  rotate: false
+  xy: 390, 264
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hit/g_c3
+  rotate: false
+  xy: 260, 330
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hit/pattern013
+  rotate: false
+  xy: 132, 72
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hit/q_f
+  rotate: false
+  xy: 262, 134
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hit/s_f
+  rotate: false
+  xy: 2, 202
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+hit/sfdd
+  rotate: false
+  xy: 2, 72
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

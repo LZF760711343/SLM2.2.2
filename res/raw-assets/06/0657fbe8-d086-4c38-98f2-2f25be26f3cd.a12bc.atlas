@@ -1,0 +1,97 @@
+
+Artifact2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7171000_01
+  rotate: false
+  xy: 712, 16
+  size: 128, 119
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ef_24
+  rotate: false
+  xy: 1407, 350
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ef_28
+  rotate: true
+  xy: 480, 20
+  size: 115, 230
+  orig: 115, 249
+  offset: 0, 13
+  index: -1
+ef_30
+  rotate: false
+  xy: 1911, 386
+  size: 80, 92
+  orig: 80, 94
+  offset: 0, 1
+  index: -1
+glow2
+  rotate: false
+  xy: 1537, 350
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow4-1
+  rotate: false
+  xy: 1667, 350
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow5
+  rotate: false
+  xy: 991, 248
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+mofaz1
+  rotate: false
+  xy: 2, 2
+  size: 476, 476
+  orig: 476, 476
+  offset: 0, 0
+  index: -1
+mofaz2
+  rotate: false
+  xy: 480, 137
+  size: 345, 341
+  orig: 345, 341
+  offset: 0, 0
+  index: -1
+q_03
+  rotate: false
+  xy: 1194, 379
+  size: 211, 99
+  orig: 211, 128
+  offset: 0, 8
+  index: -1
+smoke2-1
+  rotate: false
+  xy: 827, 378
+  size: 365, 100
+  orig: 365, 110
+  offset: 0, 4
+  index: -1
+sq4-04
+  rotate: false
+  xy: 1797, 351
+  size: 112, 127
+  orig: 112, 129
+  offset: 0, 1
+  index: -1
+sq4-04-1
+  rotate: false
+  xy: 827, 210
+  size: 162, 166
+  orig: 162, 181
+  offset: 0, 5
+  index: -1

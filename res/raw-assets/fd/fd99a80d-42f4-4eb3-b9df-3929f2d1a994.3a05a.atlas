@@ -1,0 +1,83 @@
+
+effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-zuiye
+  rotate: false
+  xy: 159, 372
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+FX/eff1_yw_01
+  rotate: false
+  xy: 385, 282
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+FX/jd0004
+  rotate: false
+  xy: 2, 233
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+FX/shuye_001
+  rotate: false
+  xy: 2, 390
+  size: 197, 120
+  orig: 197, 120
+  offset: 0, 0
+  index: -1
+FX/zha_0001
+  rotate: false
+  xy: 2, 2
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+FX/zz1
+  rotate: false
+  xy: 201, 393
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1
+FX/zz2
+  rotate: true
+  xy: 2, 49
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1
+FX/zz3
+  rotate: true
+  xy: 385, 328
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1
+FX/zz4
+  rotate: false
+  xy: 201, 274
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1
+FX/zz5
+  rotate: true
+  xy: 121, 49
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1
+FX/zz6
+  rotate: true
+  xy: 240, 90
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1

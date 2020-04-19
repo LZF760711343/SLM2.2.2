@@ -1,0 +1,97 @@
+
+effect.png
+size: 781,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/bb
+  rotate: false
+  xy: 390, 10
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fx/effect5_03
+  rotate: true
+  xy: 684, 2
+  size: 106, 57
+  orig: 106, 57
+  offset: 0, 0
+  index: -1
+fx/glow3
+  rotate: false
+  xy: 2, 14
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+fx/lightning201
+  rotate: false
+  xy: 487, 110
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fx/lightning202
+  rotate: false
+  xy: 488, 12
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fx/lightning203
+  rotate: false
+  xy: 585, 110
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fx/lightning204
+  rotate: false
+  xy: 683, 110
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fx/mipwww
+  rotate: false
+  xy: 586, 12
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fx_b_1
+  rotate: true
+  xy: 196, 108
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+fx_b_2
+  rotate: true
+  xy: 196, 8
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+fx_b_3
+  rotate: true
+  xy: 293, 108
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+fx_b_4
+  rotate: true
+  xy: 293, 8
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+fx_b_5
+  rotate: true
+  xy: 390, 108
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1

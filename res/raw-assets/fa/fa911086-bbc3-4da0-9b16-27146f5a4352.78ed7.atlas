@@ -1,0 +1,195 @@
+
+effect.png
+size: 1943,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+011
+  rotate: false
+  xy: 119, 234
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 119, 2
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+7171000_01
+  rotate: false
+  xy: 1691, 130
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+7171000_02
+  rotate: false
+  xy: 1808, 115
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+Claw_blade
+  rotate: false
+  xy: 351, 234
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+KJBZ_01
+  rotate: false
+  xy: 815, 245
+  size: 217, 219
+  orig: 217, 219
+  offset: 0, 0
+  index: -1
+KJBZ_02
+  rotate: false
+  xy: 815, 24
+  size: 217, 219
+  orig: 217, 219
+  offset: 0, 0
+  index: -1
+KJBZ_03
+  rotate: false
+  xy: 1034, 245
+  size: 217, 219
+  orig: 217, 219
+  offset: 0, 0
+  index: -1
+KJBZ_04
+  rotate: false
+  xy: 1034, 24
+  size: 217, 219
+  orig: 217, 219
+  offset: 0, 0
+  index: -1
+KJBZ_05
+  rotate: false
+  xy: 1253, 245
+  size: 217, 219
+  orig: 217, 219
+  offset: 0, 0
+  index: -1
+KJBZ_06
+  rotate: false
+  xy: 1253, 24
+  size: 217, 219
+  orig: 217, 219
+  offset: 0, 0
+  index: -1
+KJBZ_07
+  rotate: false
+  xy: 1472, 245
+  size: 217, 219
+  orig: 217, 219
+  offset: 0, 0
+  index: -1
+KJBZ_08
+  rotate: false
+  xy: 1472, 24
+  size: 217, 219
+  orig: 217, 219
+  offset: 0, 0
+  index: -1
+KJBZ_09
+  rotate: true
+  xy: 1691, 247
+  size: 217, 219
+  orig: 217, 219
+  offset: 0, 0
+  index: -1
+bo_0686
+  rotate: false
+  xy: 351, 2
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+el_windcutter01
+  rotate: false
+  xy: 583, 234
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+flash (1)
+  rotate: true
+  xy: 1912, 232
+  size: 115, 29
+  orig: 115, 29
+  offset: 0, 0
+  index: -1
+flash (2)
+  rotate: false
+  xy: 1808, 84
+  size: 115, 29
+  orig: 115, 29
+  offset: 0, 0
+  index: -1
+flash (3)
+  rotate: false
+  xy: 1808, 53
+  size: 115, 29
+  orig: 115, 29
+  offset: 0, 0
+  index: -1
+flash (4)
+  rotate: false
+  xy: 1808, 53
+  size: 115, 29
+  orig: 115, 29
+  offset: 0, 0
+  index: -1
+flash (5)
+  rotate: false
+  xy: 1691, 39
+  size: 115, 29
+  orig: 115, 29
+  offset: 0, 0
+  index: -1
+flash (6)
+  rotate: false
+  xy: 1808, 22
+  size: 115, 29
+  orig: 115, 29
+  offset: 0, 0
+  index: -1
+flash (7)
+  rotate: false
+  xy: 1691, 8
+  size: 115, 29
+  orig: 115, 29
+  offset: 0, 0
+  index: -1
+flash (8)
+  rotate: true
+  xy: 1912, 349
+  size: 115, 29
+  orig: 115, 29
+  offset: 0, 0
+  index: -1
+ice_nova_prep
+  rotate: false
+  xy: 583, 2
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+jian22
+  rotate: true
+  xy: 2, 3
+  size: 461, 115
+  orig: 461, 115
+  offset: 0, 0
+  index: -1
+setwtet
+  rotate: false
+  xy: 1691, 70
+  size: 115, 58
+  orig: 115, 58
+  offset: 0, 0
+  index: -1

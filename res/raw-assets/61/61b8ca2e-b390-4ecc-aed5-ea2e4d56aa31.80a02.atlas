@@ -1,0 +1,104 @@
+
+skin.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1789-1
+  rotate: false
+  xy: 2, 103
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cf0ae340
+  rotate: false
+  xy: 132, 103
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tw02
+  rotate: false
+  xy: 262, 78
+  size: 128, 60
+  orig: 128, 64
+  offset: 0, 2
+  index: -1
+光晕
+  rotate: false
+  xy: 155, 26
+  size: 94, 75
+  orig: 94, 77
+  offset: 0, 1
+  index: -1
+圣光号角
+  rotate: false
+  xy: 552, 149
+  size: 149, 82
+  orig: 149, 84
+  offset: 0, 1
+  index: -1
+宝石01
+  rotate: false
+  xy: 819, 128
+  size: 101, 103
+  orig: 101, 103
+  offset: 0, 0
+  index: -1
+宝石02
+  rotate: true
+  xy: 251, 2
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+宝石03
+  rotate: false
+  xy: 922, 134
+  size: 89, 97
+  orig: 89, 98
+  offset: 0, 1
+  index: -1
+宝石04
+  rotate: true
+  xy: 703, 128
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+巨人号角
+  rotate: false
+  xy: 408, 141
+  size: 142, 90
+  orig: 142, 92
+  offset: 0, 1
+  index: -1
+战争号角
+  rotate: false
+  xy: 262, 140
+  size: 144, 91
+  orig: 144, 91
+  offset: 0, 0
+  index: -1
+星星
+  rotate: false
+  xy: 392, 127
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+杀戮号角
+  rotate: false
+  xy: 2, 13
+  size: 151, 88
+  orig: 151, 90
+  offset: 0, 1
+  index: -1
+闪光
+  rotate: false
+  xy: 336, 42
+  size: 38, 34
+  orig: 38, 35
+  offset: 0, 1
+  index: -1

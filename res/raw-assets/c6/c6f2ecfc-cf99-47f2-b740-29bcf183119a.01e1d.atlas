@@ -1,0 +1,209 @@
+
+skin4_fight2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4biyan
+  rotate: true
+  xy: 334, 108
+  size: 35, 10
+  orig: 35, 10
+  offset: 0, 0
+  index: -1
+4dunpai
+  rotate: true
+  xy: 93, 28
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+4meimao
+  rotate: false
+  xy: 346, 133
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+4pifeng
+  rotate: false
+  xy: 277, 145
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+4shangbanshen
+  rotate: false
+  xy: 225, 129
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+4tou
+  rotate: false
+  xy: 225, 29
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+4toukui
+  rotate: true
+  xy: 455, 193
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+4toukuihou
+  rotate: true
+  xy: 225, 65
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+4toukuimao
+  rotate: true
+  xy: 280, 61
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+4wuqi
+  rotate: true
+  xy: 2, 80
+  size: 28, 146
+  orig: 28, 146
+  offset: 0, 0
+  index: -1
+4wuqiyumao
+  rotate: true
+  xy: 66, 4
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+4xiabai
+  rotate: true
+  xy: 128, 8
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+4xiaqunzi
+  rotate: true
+  xy: 344, 164
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+4yanjing
+  rotate: true
+  xy: 313, 25
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+4yaodai
+  rotate: false
+  xy: 159, 27
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+4youtui
+  rotate: true
+  xy: 2, 2
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+4zuiba
+  rotate: true
+  xy: 150, 98
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+4zuojianjia
+  rotate: false
+  xy: 194, 29
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+4zuoshou
+  rotate: false
+  xy: 36, 3
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+4zuoshouzhi
+  rotate: true
+  xy: 344, 145
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+4zuotui
+  rotate: true
+  xy: 96, 6
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+ef_05
+  rotate: false
+  xy: 272, 20
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+ef_06
+  rotate: false
+  xy: 2, 110
+  size: 221, 143
+  orig: 221, 143
+  offset: 0, 0
+  index: -1
+ef_24
+  rotate: false
+  xy: 159, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+eff1_yw_01
+  rotate: false
+  xy: 280, 99
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+huo0001
+  rotate: false
+  xy: 225, 164
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+huo0002
+  rotate: true
+  xy: 369, 201
+  size: 52, 84
+  orig: 52, 84
+  offset: 0, 0
+  index: -1
+huo0003
+  rotate: true
+  xy: 2, 28
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+huo0004
+  rotate: true
+  xy: 277, 205
+  size: 48, 90
+  orig: 48, 90
+  offset: 0, 0
+  index: -1

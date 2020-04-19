@@ -1,0 +1,146 @@
+
+skin4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4Ljiao1
+  rotate: false
+  xy: 456, 91
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+4Ljiao2
+  rotate: false
+  xy: 639, 239
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+4Lyan
+  rotate: false
+  xy: 639, 204
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+4Rjiao1
+  rotate: true
+  xy: 898, 369
+  size: 58, 84
+  orig: 58, 84
+  offset: 0, 0
+  index: -1
+4Rjiao2
+  rotate: true
+  xy: 508, 119
+  size: 43, 84
+  orig: 43, 84
+  offset: 0, 0
+  index: -1
+4Ryan
+  rotate: false
+  xy: 696, 308
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+4shen
+  rotate: false
+  xy: 302, 98
+  size: 152, 75
+  orig: 152, 75
+  offset: 0, 0
+  index: -1
+4tou
+  rotate: false
+  xy: 720, 355
+  size: 176, 155
+  orig: 176, 155
+  offset: 0, 0
+  index: -1
+4wei
+  rotate: true
+  xy: 516, 341
+  size: 169, 202
+  orig: 169, 202
+  offset: 0, 0
+  index: -1
+4wei2
+  rotate: false
+  xy: 235, 2
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: -1
+4wj1
+  rotate: false
+  xy: 508, 71
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+4wj2
+  rotate: false
+  xy: 509, 164
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+4xx1
+  rotate: false
+  xy: 604, 160
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+4xx2
+  rotate: false
+  xy: 981, 455
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+FX/X1
+  rotate: false
+  xy: 302, 175
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+FX/glow_5
+  rotate: false
+  xy: 2, 82
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+FX/jq5
+  rotate: false
+  xy: 898, 429
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+FX/yun
+  rotate: false
+  xy: 2, 382
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 509, 211
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 7
+  size: 231, 73
+  orig: 231, 73
+  offset: 0, 0
+  index: -1

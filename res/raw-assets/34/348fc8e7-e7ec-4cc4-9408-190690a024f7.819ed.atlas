@@ -1,0 +1,20 @@
+
+effect.png
+size: 140,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_guangquan2
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icon_shouzhi
+  rotate: false
+  xy: 2, 68
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1

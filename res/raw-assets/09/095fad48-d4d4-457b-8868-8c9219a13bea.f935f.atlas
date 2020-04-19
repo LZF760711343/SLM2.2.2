@@ -1,0 +1,111 @@
+
+effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1wuqi
+  rotate: true
+  xy: 355, 423
+  size: 24, 76
+  orig: 24, 76
+  offset: 0, 0
+  index: -1
+2jian
+  rotate: false
+  xy: 435, 489
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+3jian
+  rotate: true
+  xy: 2, 149
+  size: 84, 19
+  orig: 84, 19
+  offset: 0, 0
+  index: -1
+4jian
+  rotate: false
+  xy: 132, 481
+  size: 139, 24
+  orig: 139, 24
+  offset: 0, 0
+  index: -1
+5jian
+  rotate: true
+  xy: 2, 235
+  size: 140, 25
+  orig: 140, 25
+  offset: 0, 0
+  index: -1
+fx_b2_1
+  rotate: true
+  xy: 217, 401
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+fx_b2_2
+  rotate: false
+  xy: 120, 309
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+fx_b2_3
+  rotate: false
+  xy: 275, 449
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+fx_b2_4
+  rotate: false
+  xy: 355, 449
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+fx_b2_5
+  rotate: false
+  xy: 275, 391
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+fx_b_1
+  rotate: false
+  xy: 132, 424
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+fx_b_2
+  rotate: true
+  xy: 63, 292
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+fx_b_3
+  rotate: false
+  xy: 132, 367
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+fx_c
+  rotate: false
+  xy: 2, 377
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 29, 247
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1

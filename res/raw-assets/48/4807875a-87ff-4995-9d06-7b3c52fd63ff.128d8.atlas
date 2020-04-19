@@ -1,0 +1,279 @@
+
+skin5_fight2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-kuijia1
+  rotate: false
+  xy: 906, 385
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+5-houjia1
+  rotate: true
+  xy: 684, 385
+  size: 53, 99
+  orig: 53, 99
+  offset: 0, 0
+  index: -1
+5-houjia2
+  rotate: true
+  xy: 132, 234
+  size: 63, 115
+  orig: 63, 115
+  offset: 0, 0
+  index: -1
+5-jiao1
+  rotate: false
+  xy: 230, 73
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+5-jiao2
+  rotate: false
+  xy: 785, 384
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+5-kuijia2
+  rotate: false
+  xy: 951, 385
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+5-shen
+  rotate: true
+  xy: 598, 369
+  size: 69, 84
+  orig: 69, 84
+  offset: 0, 0
+  index: -1
+5-shou1
+  rotate: false
+  xy: 187, 2
+  size: 34, 73
+  orig: 34, 73
+  offset: 0, 0
+  index: -1
+5-shou2
+  rotate: true
+  xy: 833, 387
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+5-shouzhi1
+  rotate: false
+  xy: 2, 6
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+5-tou
+  rotate: false
+  xy: 784, 317
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+5-wuqi
+  rotate: false
+  xy: 831, 442
+  size: 112, 68
+  orig: 112, 68
+  offset: 0, 0
+  index: -1
+DZ/DZGC1
+  rotate: false
+  xy: 132, 385
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+DZ/DZGC2
+  rotate: false
+  xy: 2, 125
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+FX/Fx_Hit_103
+  rotate: false
+  xy: 945, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+FX/SG
+  rotate: false
+  xy: 2, 29
+  size: 99, 94
+  orig: 99, 94
+  offset: 0, 0
+  index: -1
+FX/SG2
+  rotate: false
+  xy: 129, 138
+  size: 99, 94
+  orig: 99, 94
+  offset: 0, 0
+  index: -1
+FX/cy1
+  rotate: false
+  xy: 223, 45
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+FX/cy2
+  rotate: false
+  xy: 135, 77
+  size: 93, 59
+  orig: 93, 59
+  offset: 0, 0
+  index: -1
+FX/cy3
+  rotate: false
+  xy: 377, 359
+  size: 106, 65
+  orig: 106, 65
+  offset: 0, 0
+  index: -1
+FX/cy4
+  rotate: false
+  xy: 485, 369
+  size: 111, 69
+  orig: 111, 69
+  offset: 0, 0
+  index: -1
+FX/cy5
+  rotate: false
+  xy: 601, 440
+  size: 113, 70
+  orig: 113, 70
+  offset: 0, 0
+  index: -1
+FX/cy6
+  rotate: false
+  xy: 716, 440
+  size: 113, 70
+  orig: 113, 70
+  offset: 0, 0
+  index: -1
+FX/cy7
+  rotate: false
+  xy: 485, 440
+  size: 114, 70
+  orig: 114, 70
+  offset: 0, 0
+  index: -1
+FX/cy8
+  rotate: false
+  xy: 902, 332
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+FX/dg62_01
+  rotate: false
+  xy: 2, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/gsx
+  rotate: false
+  xy: 836, 322
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+FX/guang
+  rotate: false
+  xy: 2, 252
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/hy1
+  rotate: true
+  xy: 966, 320
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+FX/hy2
+  rotate: false
+  xy: 594, 327
+  size: 90, 40
+  orig: 90, 40
+  offset: 0, 0
+  index: -1
+FX/hy3
+  rotate: true
+  xy: 103, 22
+  size: 101, 30
+  orig: 101, 30
+  offset: 0, 0
+  index: -1
+FX/hy4
+  rotate: false
+  xy: 132, 299
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+FX/hy5
+  rotate: false
+  xy: 259, 426
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+FX/qy1
+  rotate: true
+  xy: 135, 2
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+FX/qy2
+  rotate: false
+  xy: 686, 339
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+FX/qy3
+  rotate: false
+  xy: 485, 332
+  size: 107, 35
+  orig: 107, 35
+  offset: 0, 0
+  index: -1
+FX/qy4
+  rotate: false
+  xy: 374, 426
+  size: 109, 84
+  orig: 109, 84
+  offset: 0, 0
+  index: -1
+FX/qy5
+  rotate: true
+  xy: 230, 122
+  size: 110, 31
+  orig: 110, 31
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 259, 387
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"cardinherit","json":{"NeedConsume":{"1":{"count":100,"type":9},"2":{"count":200,"type":9},"3":{"count":300,"type":9},"4":{"count":400,"type":9},"5":{"count":500,"type":9},"6":{"count":600,"type":9}},"type":{"1":[{"BackPercent":80},{"BackPercent":100}]}}}

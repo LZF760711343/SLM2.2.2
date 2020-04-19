@@ -1,0 +1,300 @@
+
+Artifact.png
+size: 943,946
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: true
+  xy: 318, 431
+  size: 128, 127
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+7171000_01
+  rotate: true
+  xy: 822, 480
+  size: 112, 120
+  orig: 128, 128
+  offset: 8, 0
+  index: -1
+7171000_02
+  rotate: false
+  xy: 253, 738
+  size: 112, 120
+  orig: 128, 128
+  offset: 8, 8
+  index: -1
+7307000_00
+  rotate: true
+  xy: 887, 658
+  size: 84, 39
+  orig: 256, 128
+  offset: 90, 89
+  index: -1
+7307000_01
+  rotate: false
+  xy: 679, 480
+  size: 141, 58
+  orig: 256, 128
+  offset: 107, 70
+  index: -1
+7307000_02
+  rotate: false
+  xy: 272, 336
+  size: 161, 93
+  orig: 256, 128
+  offset: 95, 0
+  index: -1
+7307000_03
+  rotate: false
+  xy: 1, 841
+  size: 202, 72
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+DropItemBoxSenior
+  rotate: false
+  xy: 887, 744
+  size: 54, 54
+  orig: 64, 64
+  offset: 5, 5
+  index: -1
+flash2
+  rotate: true
+  xy: 252, 480
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+glow22
+  rotate: true
+  xy: 700, 1
+  size: 254, 233
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 806, 594
+  size: 62, 128
+  orig: 64, 128
+  offset: 2, 0
+  index: -1
+lightning201
+  rotate: false
+  xy: 367, 841
+  size: 103, 82
+  orig: 128, 128
+  offset: 12, 10
+  index: -1
+lightning202
+  rotate: false
+  xy: 205, 860
+  size: 81, 78
+  orig: 128, 128
+  offset: 26, 25
+  index: -1
+lightning203
+  rotate: false
+  xy: 574, 462
+  size: 103, 83
+  orig: 128, 128
+  offset: 8, 24
+  index: -1
+lightning204
+  rotate: false
+  xy: 712, 540
+  size: 92, 105
+  orig: 128, 128
+  offset: 12, 13
+  index: -1
+pattern040
+  rotate: false
+  xy: 582, 547
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 367, 711
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ray0018
+  rotate: false
+  xy: 682, 257
+  size: 225, 221
+  orig: 256, 256
+  offset: 16, 21
+  index: -1
+ray0019
+  rotate: false
+  xy: 452, 1
+  size: 246, 244
+  orig: 256, 256
+  offset: 6, 8
+  index: -1
+sq1
+  rotate: false
+  xy: 109, 1
+  size: 161, 357
+  orig: 161, 357
+  offset: 0, 0
+  index: -1
+sq2-g
+  rotate: false
+  xy: 1, 1
+  size: 106, 425
+  orig: 106, 425
+  offset: 0, 0
+  index: -1
+sq2-g1
+  rotate: false
+  xy: 318, 711
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+sq2-g2
+  rotate: false
+  xy: 318, 561
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+sq2
+  rotate: false
+  xy: 1, 428
+  size: 92, 411
+  orig: 92, 411
+  offset: 0, 0
+  index: -1
+sq3-s1
+  rotate: true
+  xy: 1, 915
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+sq3-s2
+  rotate: false
+  xy: 909, 257
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+sq3-s3
+  rotate: false
+  xy: 109, 408
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+sq3
+  rotate: true
+  xy: 452, 247
+  size: 213, 228
+  orig: 213, 228
+  offset: 0, 0
+  index: -1
+sq4-01
+  rotate: false
+  xy: 95, 740
+  size: 156, 99
+  orig: 156, 99
+  offset: 0, 0
+  index: -1
+sq4-02
+  rotate: false
+  xy: 109, 360
+  size: 156, 46
+  orig: 156, 46
+  offset: 0, 0
+  index: -1
+sq4-03
+  rotate: false
+  xy: 447, 462
+  size: 125, 91
+  orig: 125, 91
+  offset: 0, 0
+  index: -1
+sq4-04
+  rotate: false
+  xy: 468, 555
+  size: 112, 129
+  orig: 112, 129
+  offset: 0, 0
+  index: -1
+sq4-g1
+  rotate: false
+  xy: 887, 800
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+sq4-g2
+  rotate: true
+  xy: 468, 686
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+sq5
+  rotate: false
+  xy: 95, 428
+  size: 155, 310
+  orig: 155, 310
+  offset: 0, 0
+  index: -1
+sq5_2
+  rotate: false
+  xy: 272, 1
+  size: 178, 333
+  orig: 178, 333
+  offset: 0, 0
+  index: -1
+岩浆00
+  rotate: false
+  xy: 497, 686
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+岩浆02
+  rotate: false
+  xy: 627, 677
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+岩浆04
+  rotate: false
+  xy: 757, 658
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+岩浆06
+  rotate: false
+  xy: 497, 816
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+岩浆08
+  rotate: false
+  xy: 627, 807
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+岩浆10
+  rotate: false
+  xy: 757, 788
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

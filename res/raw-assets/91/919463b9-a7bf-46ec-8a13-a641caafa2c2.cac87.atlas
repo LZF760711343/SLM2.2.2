@@ -1,0 +1,195 @@
+
+skin5_fight2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5-baoshi
+  rotate: false
+  xy: 890, 97
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+5-bomao
+  rotate: false
+  xy: 860, 56
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+5-cibang1
+  rotate: false
+  xy: 667, 20
+  size: 70, 112
+  orig: 70, 112
+  offset: 0, 0
+  index: -1
+5-cibang2
+  rotate: false
+  xy: 667, 134
+  size: 76, 120
+  orig: 76, 120
+  offset: 0, 0
+  index: -1
+5-jiao1
+  rotate: true
+  xy: 991, 177
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+5-jiao2
+  rotate: true
+  xy: 667, 2
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+5-lian
+  rotate: false
+  xy: 739, 12
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+5-shen
+  rotate: true
+  xy: 991, 216
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+5-tou
+  rotate: false
+  xy: 890, 111
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+5-touhuo
+  rotate: true
+  xy: 836, 97
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+5-touhuo1
+  rotate: false
+  xy: 947, 165
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+5-touhuo2
+  rotate: false
+  xy: 816, 44
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+5-touhuo3
+  rotate: false
+  xy: 901, 164
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+5-tui2
+  rotate: true
+  xy: 692, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+5-weiba
+  rotate: false
+  xy: 901, 139
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+5-weiba1
+  rotate: false
+  xy: 739, 36
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+5-weiba2
+  rotate: false
+  xy: 410, 52
+  size: 116, 72
+  orig: 116, 72
+  offset: 0, 0
+  index: -1
+5-weiba3
+  rotate: false
+  xy: 745, 104
+  size: 89, 43
+  orig: 89, 43
+  offset: 0, 0
+  index: -1
+5-weiba4
+  rotate: false
+  xy: 745, 210
+  size: 115, 44
+  orig: 115, 44
+  offset: 0, 0
+  index: -1
+5-weiba5
+  rotate: false
+  xy: 862, 218
+  size: 123, 36
+  orig: 123, 36
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 4
+  size: 406, 250
+  orig: 406, 250
+  offset: 0, 0
+  index: -1
+DZ/DZGC1
+  rotate: false
+  xy: 540, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+DZ/DZGC2
+  rotate: false
+  xy: 540, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+FX/gsx
+  rotate: true
+  xy: 836, 144
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+FX/guang
+  rotate: false
+  xy: 410, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/guangyun
+  rotate: true
+  xy: 745, 149
+  size: 59, 89
+  orig: 59, 89
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 410, 13
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

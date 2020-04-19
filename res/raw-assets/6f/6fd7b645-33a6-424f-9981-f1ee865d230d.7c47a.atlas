@@ -1,0 +1,111 @@
+
+Artifact5.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9-1
+  rotate: false
+  xy: 2, 159
+  size: 419, 340
+  orig: 419, 340
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 1759, 376
+  size: 128, 123
+  orig: 128, 128
+  offset: 0, 2
+  index: -1
+ef_24
+  rotate: false
+  xy: 1239, 371
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ef_30
+  rotate: false
+  xy: 1889, 407
+  size: 80, 92
+  orig: 80, 94
+  offset: 0, 1
+  index: -1
+eff1_yw_01
+  rotate: false
+  xy: 636, 172
+  size: 104, 86
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+eff3_bd02
+  rotate: false
+  xy: 312, 24
+  size: 136, 133
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+fire3-1
+  rotate: false
+  xy: 779, 302
+  size: 256, 197
+  orig: 256, 256
+  offset: 0, 27
+  index: -1
+glow4-1
+  rotate: false
+  xy: 1369, 371
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow5
+  rotate: false
+  xy: 450, 29
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+q_03
+  rotate: false
+  xy: 423, 159
+  size: 211, 99
+  orig: 211, 128
+  offset: 0, 8
+  index: -1
+q_g2
+  rotate: false
+  xy: 1499, 371
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 1629, 371
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+skhit5
+  rotate: false
+  xy: 1037, 308
+  size: 200, 191
+  orig: 200, 200
+  offset: 0, 6
+  index: -1
+sq5
+  rotate: true
+  xy: 2, 2
+  size: 155, 308
+  orig: 155, 310
+  offset: 0, 1
+  index: -1
+sq5-ef
+  rotate: true
+  xy: 423, 260
+  size: 239, 354
+  orig: 239, 401
+  offset: 0, 20
+  index: -1

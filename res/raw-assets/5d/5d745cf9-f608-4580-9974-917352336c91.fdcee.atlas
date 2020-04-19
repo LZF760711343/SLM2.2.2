@@ -1,0 +1,153 @@
+
+effect.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7171000_01
+  rotate: false
+  xy: 296, 153
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+7171000_02
+  rotate: false
+  xy: 296, 119
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+DropItemBoxSenior
+  rotate: false
+  xy: 390, 100
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 430, 151
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+huanrao_00001
+  rotate: false
+  xy: 2, 6
+  size: 88, 18
+  orig: 88, 18
+  offset: 0, 0
+  index: -1
+huanrao_00002
+  rotate: false
+  xy: 117, 83
+  size: 91, 29
+  orig: 91, 29
+  offset: 0, 0
+  index: -1
+huanrao_00003
+  rotate: false
+  xy: 430, 217
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+huanrao_00004
+  rotate: true
+  xy: 116, 2
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+huanrao_00005
+  rotate: false
+  xy: 331, 134
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+huanrao_00006
+  rotate: false
+  xy: 230, 187
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+huanrao_00007
+  rotate: false
+  xy: 117, 180
+  size: 111, 74
+  orig: 111, 74
+  offset: 0, 0
+  index: -1
+huanrao_00008
+  rotate: false
+  xy: 2, 174
+  size: 113, 80
+  orig: 113, 80
+  offset: 0, 0
+  index: -1
+huanrao_00009
+  rotate: false
+  xy: 2, 97
+  size: 113, 75
+  orig: 113, 75
+  offset: 0, 0
+  index: -1
+huanrao_00010
+  rotate: false
+  xy: 2, 26
+  size: 112, 69
+  orig: 112, 69
+  offset: 0, 0
+  index: -1
+huanrao_00011
+  rotate: false
+  xy: 117, 114
+  size: 107, 64
+  orig: 107, 64
+  offset: 0, 0
+  index: -1
+huanrao_00012
+  rotate: false
+  xy: 331, 197
+  size: 97, 57
+  orig: 97, 57
+  offset: 0, 0
+  index: -1
+huanrao_00013
+  rotate: true
+  xy: 167, 12
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+huanrao_00014
+  rotate: false
+  xy: 330, 89
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+huanrao_00015
+  rotate: true
+  xy: 390, 79
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+huanrao_00016
+  rotate: false
+  xy: 92, 8
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 230, 121
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

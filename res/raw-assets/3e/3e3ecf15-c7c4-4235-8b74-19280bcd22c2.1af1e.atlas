@@ -1,0 +1,76 @@
+
+skin3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3Lchi
+  rotate: false
+  xy: 120, 194
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+3Ljiao
+  rotate: true
+  xy: 93, 138
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+3Lshou
+  rotate: false
+  xy: 67, 79
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+3Rchi
+  rotate: false
+  xy: 187, 199
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+3Rjiao
+  rotate: false
+  xy: 67, 108
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+3Rshou
+  rotate: false
+  xy: 93, 169
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+3shenti
+  rotate: false
+  xy: 2, 138
+  size: 89, 59
+  orig: 89, 59
+  offset: 0, 0
+  index: -1
+3tou
+  rotate: false
+  xy: 2, 2
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+3tou2
+  rotate: false
+  xy: 2, 67
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 199
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

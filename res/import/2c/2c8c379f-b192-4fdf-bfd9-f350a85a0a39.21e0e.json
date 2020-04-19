@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"PrivilegeCardConf","json":{"PrivilegeCardConf":{"1":{"days":7,"diamond":300,"everyDayGet":100,"name":"周卡","recharge":6,"rechargeid":14,"type":1},"2":{"days":30,"diamond":600,"everyDayGet":200,"name":"月卡","recharge":30,"rechargeid":15,"type":2}}}}

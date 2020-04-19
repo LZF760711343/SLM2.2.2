@@ -1,0 +1,55 @@
+
+effect.png
+size: 229,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+特效/ef_24
+  rotate: false
+  xy: 163, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+特效/eff_jj_0002
+  rotate: false
+  xy: 150, 152
+  size: 74, 74
+  orig: 74, 76
+  offset: 0, 2
+  index: -1
+特效/gq_001
+  rotate: false
+  xy: 61, 7
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+特效/q_a1
+  rotate: false
+  xy: 163, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+特效/shand_26
+  rotate: false
+  xy: 2, 173
+  size: 146, 53
+  orig: 146, 53
+  offset: 0, 0
+  index: -1
+特效/shand_27
+  rotate: false
+  xy: 2, 114
+  size: 137, 57
+  orig: 137, 57
+  offset: 0, 0
+  index: -1
+特效/shand_28
+  rotate: true
+  xy: 2, 2
+  size: 110, 57
+  orig: 110, 57
+  offset: 0, 0
+  index: -1

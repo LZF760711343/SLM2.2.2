@@ -1,0 +1,139 @@
+
+skin3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3biyan
+  rotate: false
+  xy: 110, 147
+  size: 38, 9
+  orig: 38, 9
+  offset: 0, 0
+  index: -1
+3dunpai
+  rotate: false
+  xy: 41, 119
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+3qunzi
+  rotate: true
+  xy: 41, 2
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+3shangsheng
+  rotate: false
+  xy: 209, 224
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+3tou
+  rotate: true
+  xy: 158, 162
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+3toushi
+  rotate: false
+  xy: 2, 12
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+3tuokui
+  rotate: false
+  xy: 88, 158
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+3wuqi
+  rotate: true
+  xy: 88, 223
+  size: 31, 119
+  orig: 31, 119
+  offset: 0, 0
+  index: -1
+3yanjing
+  rotate: true
+  xy: 41, 38
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+3yao
+  rotate: false
+  xy: 137, 129
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+3yaodai
+  rotate: true
+  xy: 41, 78
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+3youshou
+  rotate: true
+  xy: 110, 128
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+3youtui
+  rotate: false
+  xy: 59, 87
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+3zuiba
+  rotate: false
+  xy: 248, 249
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+3zuoshou
+  rotate: false
+  xy: 80, 131
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+3zuoshouwan
+  rotate: true
+  xy: 80, 84
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+3zuotui
+  rotate: false
+  xy: 80, 103
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+eff1_hh_0001
+  rotate: false
+  xy: 2, 171
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+yinzi
+  rotate: true
+  xy: 2, 53
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

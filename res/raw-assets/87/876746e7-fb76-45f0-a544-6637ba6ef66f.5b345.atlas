@@ -1,0 +1,48 @@
+
+skin1,2,3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1body
+  rotate: false
+  xy: 111, 147
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+2body
+  rotate: false
+  xy: 2, 136
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: -1
+3Lhand
+  rotate: false
+  xy: 212, 199
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+3Rhand
+  rotate: false
+  xy: 212, 163
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+3body
+  rotate: false
+  xy: 2, 41
+  size: 100, 93
+  orig: 100, 93
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+BG.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 798, 255
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 798, 148
+  size: 407, 87
+  orig: 407, 87
+  offset: 0, 0
+  index: -1
+bing
+  rotate: false
+  xy: 817, 237
+  size: 410, 65
+  orig: 410, 65
+  offset: 0, 0
+  index: -1
+chuan1
+  rotate: true
+  xy: 1207, 103
+  size: 126, 152
+  orig: 126, 152
+  offset: 0, 0
+  index: -1
+chuan2
+  rotate: false
+  xy: 1628, 24
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 273
+  size: 813, 237
+  orig: 813, 237
+  offset: 0, 0
+  index: -1
+fang
+  rotate: false
+  xy: 1632, 146
+  size: 329, 273
+  orig: 329, 273
+  offset: 0, 0
+  index: -1
+fxiagnp
+  rotate: true
+  xy: 1128, 89
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+lg1
+  rotate: false
+  xy: 1361, 69
+  size: 265, 90
+  orig: 265, 90
+  offset: 0, 0
+  index: -1
+lg2
+  rotate: false
+  xy: 817, 304
+  size: 548, 82
+  orig: 548, 82
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 1752, 10
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+qj
+  rotate: false
+  xy: 2, 33
+  size: 623, 92
+  orig: 623, 92
+  offset: 0, 0
+  index: -1
+shan1
+  rotate: false
+  xy: 1367, 161
+  size: 247, 225
+  orig: 247, 225
+  offset: 0, 0
+  index: -1
+shan2
+  rotate: true
+  xy: 1229, 231
+  size: 71, 136
+  orig: 71, 136
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 1854, 70
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+shui
+  rotate: false
+  xy: 817, 388
+  size: 813, 122
+  orig: 813, 122
+  offset: 0, 0
+  index: -1
+tong
+  rotate: false
+  xy: 627, 28
+  size: 137, 97
+  orig: 137, 97
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 2, 127
+  size: 794, 144
+  orig: 794, 144
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 1632, 421
+  size: 406, 89
+  orig: 406, 89
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 1854, 2
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 1944, 77
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 1752, 50
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+z4
+  rotate: false
+  xy: 1898, 3
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: true
+  xy: 798, 86
+  size: 60, 328
+  orig: 60, 328
+  offset: 0, 0
+  index: -1
+冰洞 雪
+  rotate: true
+  xy: 1963, 149
+  size: 270, 73
+  orig: 270, 73
+  offset: 0, 0
+  index: -1

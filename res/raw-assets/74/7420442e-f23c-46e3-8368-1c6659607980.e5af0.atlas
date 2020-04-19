@@ -1,0 +1,90 @@
+
+effect.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang/fx1_1
+  rotate: false
+  xy: 2, 170
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+guang/fx1_2
+  rotate: false
+  xy: 2, 103
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+guang/fx1_3
+  rotate: false
+  xy: 90, 170
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+guang/fx1_4
+  rotate: false
+  xy: 2, 36
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+guang/fx1_5
+  rotate: false
+  xy: 90, 103
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+guang/fx2_b_1
+  rotate: false
+  xy: 178, 171
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+guang/fx2_b_2
+  rotate: false
+  xy: 90, 37
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+guang/fx2_b_3
+  rotate: false
+  xy: 178, 105
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+guang/fx2_b_4
+  rotate: false
+  xy: 244, 171
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+guang/fx2_b_5
+  rotate: false
+  xy: 244, 105
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+guang/shitou
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+guang/skin5_shitou
+  rotate: false
+  xy: 310, 171
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

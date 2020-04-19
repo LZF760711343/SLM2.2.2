@@ -1,0 +1,132 @@
+
+skin4_fight2.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-cao
+  rotate: false
+  xy: 431, 97
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+4-huangguang
+  rotate: false
+  xy: 321, 95
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+4-jiao1
+  rotate: false
+  xy: 463, 109
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+4-jiao2
+  rotate: false
+  xy: 95, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+4-lian
+  rotate: false
+  xy: 219, 93
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+4-lian1
+  rotate: true
+  xy: 229, 42
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+4-lian2
+  rotate: false
+  xy: 2, 2
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+4-pifeng
+  rotate: false
+  xy: 270, 42
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+4-shen
+  rotate: false
+  xy: 270, 82
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+4-shou1
+  rotate: true
+  xy: 357, 99
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+4-shou2
+  rotate: true
+  xy: 395, 101
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+4-tou
+  rotate: true
+  xy: 101, 23
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+4-toufa
+  rotate: false
+  xy: 2, 40
+  size: 97, 86
+  orig: 97, 86
+  offset: 0, 0
+  index: -1
+4-toumao
+  rotate: true
+  xy: 118, 6
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+4-weiba
+  rotate: false
+  xy: 53, 2
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+4-weijin
+  rotate: false
+  xy: 270, 60
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 101, 89
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1
+特效/szh
+  rotate: false
+  xy: 172, 32
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

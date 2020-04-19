@@ -1,0 +1,76 @@
+
+skin4.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-houjia1
+  rotate: true
+  xy: 584, 169
+  size: 85, 174
+  orig: 85, 174
+  offset: 0, 0
+  index: -1
+4-houjia2
+  rotate: true
+  xy: 396, 161
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+4-jiao1
+  rotate: false
+  xy: 962, 190
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+4-jiao2
+  rotate: false
+  xy: 907, 182
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+4-shen
+  rotate: false
+  xy: 2, 35
+  size: 155, 219
+  orig: 155, 219
+  offset: 0, 0
+  index: -1
+4-shou1
+  rotate: true
+  xy: 760, 169
+  size: 85, 145
+  orig: 85, 145
+  offset: 0, 0
+  index: -1
+4-shou2
+  rotate: true
+  xy: 396, 81
+  size: 78, 152
+  orig: 78, 152
+  offset: 0, 0
+  index: -1
+4-shouzhi1
+  rotate: false
+  xy: 2, 2
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+4-wuqi
+  rotate: false
+  xy: 159, 137
+  size: 235, 117
+  orig: 235, 117
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 159, 61
+  size: 231, 74
+  orig: 231, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+skin5.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5Ljiao
+  rotate: false
+  xy: 155, 14
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+5Lpifeng
+  rotate: true
+  xy: 638, 10
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+5Lshou
+  rotate: false
+  xy: 2, 2
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+5Lshou2
+  rotate: false
+  xy: 899, 54
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+5Lshoubi
+  rotate: false
+  xy: 709, 25
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+5Lwuqi
+  rotate: true
+  xy: 560, 76
+  size: 50, 136
+  orig: 50, 136
+  offset: 0, 0
+  index: -1
+5Mpifeng
+  rotate: false
+  xy: 786, 20
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+5Rjiao
+  rotate: false
+  xy: 179, 17
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+5Rpifeng
+  rotate: true
+  xy: 839, 13
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+5Rshou
+  rotate: false
+  xy: 53, 2
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+5Rshou2
+  rotate: false
+  xy: 103, 3
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+5Rshoubi
+  rotate: true
+  xy: 954, 51
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+5Rwuqi
+  rotate: true
+  xy: 698, 76
+  size: 50, 136
+  orig: 50, 136
+  offset: 0, 0
+  index: -1
+5maozi
+  rotate: false
+  xy: 440, 42
+  size: 118, 84
+  orig: 118, 84
+  offset: 0, 0
+  index: -1
+5peishi
+  rotate: true
+  xy: 179, 2
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+5shenti
+  rotate: false
+  xy: 839, 48
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+5tou
+  rotate: false
+  xy: 560, 16
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+fx_a_1
+  rotate: false
+  xy: 2, 35
+  size: 144, 91
+  orig: 144, 91
+  offset: 0, 0
+  index: -1
+fx_a_2
+  rotate: false
+  xy: 148, 35
+  size: 144, 91
+  orig: 144, 91
+  offset: 0, 0
+  index: -1
+fx_a_3
+  rotate: false
+  xy: 294, 35
+  size: 144, 91
+  orig: 144, 91
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 836, 89
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

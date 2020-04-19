@@ -1,0 +1,90 @@
+
+skin.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feng-cibang1
+  rotate: false
+  xy: 339, 25
+  size: 254, 177
+  orig: 254, 177
+  offset: 0, 0
+  index: -1
+feng-cibang2
+  rotate: false
+  xy: 595, 17
+  size: 215, 185
+  orig: 215, 185
+  offset: 0, 0
+  index: -1
+feng-cibang22
+  rotate: false
+  xy: 2, 2
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+feng-jiao1
+  rotate: true
+  xy: 1743, 136
+  size: 66, 92
+  orig: 66, 92
+  offset: 0, 0
+  index: -1
+feng-jiao2
+  rotate: true
+  xy: 1484, 115
+  size: 87, 128
+  orig: 87, 128
+  offset: 0, 0
+  index: -1
+feng-kuijia
+  rotate: true
+  xy: 1614, 128
+  size: 74, 127
+  orig: 74, 127
+  offset: 0, 0
+  index: -1
+feng-shou1
+  rotate: false
+  xy: 1837, 144
+  size: 86, 58
+  orig: 86, 58
+  offset: 0, 0
+  index: -1
+feng-shou2
+  rotate: false
+  xy: 1182, 84
+  size: 143, 118
+  orig: 143, 118
+  offset: 0, 0
+  index: -1
+feng-tou
+  rotate: false
+  xy: 812, 60
+  size: 214, 142
+  orig: 214, 142
+  offset: 0, 0
+  index: -1
+feng-touying
+  rotate: false
+  xy: 1925, 138
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+feng-weiba
+  rotate: false
+  xy: 1327, 96
+  size: 155, 106
+  orig: 155, 106
+  offset: 0, 0
+  index: -1
+feng-xiong
+  rotate: false
+  xy: 1028, 69
+  size: 152, 133
+  orig: 152, 133
+  offset: 0, 0
+  index: -1

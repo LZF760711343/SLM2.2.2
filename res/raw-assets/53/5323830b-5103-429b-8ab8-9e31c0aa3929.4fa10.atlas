@@ -1,0 +1,153 @@
+
+skin4.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-jiao1
+  rotate: true
+  xy: 306, 207
+  size: 47, 90
+  orig: 47, 90
+  offset: 0, 0
+  index: -1
+4-jiao2
+  rotate: true
+  xy: 132, 105
+  size: 47, 95
+  orig: 47, 95
+  offset: 0, 0
+  index: -1
+4-jiao3
+  rotate: true
+  xy: 398, 203
+  size: 51, 88
+  orig: 51, 88
+  offset: 0, 0
+  index: -1
+4-jiao5
+  rotate: false
+  xy: 78, 6
+  size: 42, 79
+  orig: 42, 79
+  offset: 0, 0
+  index: -1
+4-jiao6
+  rotate: false
+  xy: 198, 25
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+4-shen
+  rotate: false
+  xy: 229, 128
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+4-shou
+  rotate: true
+  xy: 367, 146
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+4-tou
+  rotate: false
+  xy: 284, 148
+  size: 81, 57
+  orig: 81, 57
+  offset: 0, 0
+  index: -1
+4-xu
+  rotate: true
+  xy: 132, 230
+  size: 24, 172
+  orig: 24, 172
+  offset: 0, 0
+  index: -1
+4-yan
+  rotate: true
+  xy: 488, 220
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+4-zui
+  rotate: true
+  xy: 122, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+5-yan1
+  rotate: true
+  xy: 502, 220
+  size: 34, 8
+  orig: 34, 8
+  offset: 0, 0
+  index: -1
+FX/MMP1
+  rotate: false
+  xy: 132, 154
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+FX/MMP2
+  rotate: false
+  xy: 2, 11
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+FX/MMP3
+  rotate: false
+  xy: 208, 154
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+FX/MMP4
+  rotate: false
+  xy: 122, 29
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+FX/fire_colors_2
+  rotate: false
+  xy: 2, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/gg1
+  rotate: false
+  xy: 432, 147
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+FX/gg2
+  rotate: false
+  xy: 432, 91
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+FX/gg3
+  rotate: false
+  xy: 238, 35
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 87
+  size: 115, 37
+  orig: 115, 37
+  offset: 0, 0
+  index: -1

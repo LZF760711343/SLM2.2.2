@@ -1,0 +1,174 @@
+
+effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1wuqi
+  rotate: false
+  xy: 334, 246
+  size: 13, 101
+  orig: 13, 101
+  offset: 0, 0
+  index: -1
+2wuqi
+  rotate: true
+  xy: 43, 59
+  size: 27, 124
+  orig: 27, 124
+  offset: 0, 0
+  index: -1
+3wuqi
+  rotate: true
+  xy: 231, 349
+  size: 31, 119
+  orig: 31, 119
+  offset: 0, 0
+  index: -1
+4wuqi
+  rotate: true
+  xy: 43, 88
+  size: 28, 146
+  orig: 28, 146
+  offset: 0, 0
+  index: -1
+4wuqiyumao
+  rotate: false
+  xy: 458, 436
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+5wuqi
+  rotate: false
+  xy: 2, 57
+  size: 39, 153
+  orig: 39, 153
+  offset: 0, 0
+  index: -1
+5wuqiyumao1
+  rotate: false
+  xy: 2, 20
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+5wuqiyumao2
+  rotate: false
+  xy: 225, 232
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+ef_06
+  rotate: false
+  xy: 2, 212
+  size: 221, 143
+  orig: 221, 143
+  offset: 0, 0
+  index: -1
+ef_20
+  rotate: false
+  xy: 2, 357
+  size: 227, 153
+  orig: 227, 153
+  offset: 0, 0
+  index: -1
+eff1_yw_01
+  rotate: false
+  xy: 458, 466
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+eff3_bz02
+  rotate: false
+  xy: 416, 287
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+eff3_bz03
+  rotate: true
+  xy: 138, 118
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+eff3_bz04
+  rotate: false
+  xy: 361, 415
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+eff3_bz05
+  rotate: false
+  xy: 43, 118
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+eff3_bz06
+  rotate: true
+  xy: 349, 277
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+eff3_bz07
+  rotate: false
+  xy: 191, 59
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+exp_01
+  rotate: false
+  xy: 446, 349
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_b_1
+  rotate: false
+  xy: 43, 2
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+fx_b_2
+  rotate: false
+  xy: 128, 2
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+fx_b_3
+  rotate: true
+  xy: 277, 264
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+fx_b_4
+  rotate: false
+  xy: 361, 358
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+fx_c
+  rotate: false
+  xy: 231, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huo0001
+  rotate: false
+  xy: 225, 258
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1

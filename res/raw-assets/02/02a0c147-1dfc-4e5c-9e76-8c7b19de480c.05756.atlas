@@ -1,0 +1,90 @@
+
+skin3.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3Ler
+  rotate: false
+  xy: 459, 99
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+3Lshou
+  rotate: true
+  xy: 351, 93
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+3Rer
+  rotate: false
+  xy: 214, 33
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+3Rshou1
+  rotate: false
+  xy: 171, 21
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+3Rshou2
+  rotate: true
+  xy: 2, 2
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+3shenti
+  rotate: false
+  xy: 2, 24
+  size: 85, 102
+  orig: 85, 102
+  offset: 0, 0
+  index: -1
+3wuqi
+  rotate: true
+  xy: 89, 15
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+3yan
+  rotate: false
+  xy: 171, 2
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+3zui
+  rotate: false
+  xy: 415, 96
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+FX/effect5_02
+  rotate: false
+  xy: 89, 65
+  size: 137, 21
+  orig: 137, 21
+  offset: 0, 0
+  index: -1
+FX/effect5_03
+  rotate: false
+  xy: 89, 88
+  size: 142, 38
+  orig: 142, 38
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 233, 89
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+skin4.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4Lerduo
+  rotate: true
+  xy: 158, 18
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+4Lshou
+  rotate: false
+  xy: 218, 108
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+4Rerduo
+  rotate: false
+  xy: 207, 12
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+4Rshou
+  rotate: false
+  xy: 218, 89
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+4lian
+  rotate: false
+  xy: 100, 39
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+4shenti
+  rotate: false
+  xy: 2, 2
+  size: 96, 124
+  orig: 96, 124
+  offset: 0, 0
+  index: -1
+4shenti2
+  rotate: false
+  xy: 158, 57
+  size: 59, 30
+  orig: 59, 30
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 100, 89
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

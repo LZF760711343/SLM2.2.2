@@ -1,0 +1,104 @@
+
+effect.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/0
+  rotate: false
+  xy: 894, 24
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+fx/1
+  rotate: false
+  xy: 322, 4
+  size: 150, 53
+  orig: 150, 53
+  offset: 0, 0
+  index: -1
+fx/2
+  rotate: false
+  xy: 2, 2
+  size: 160, 55
+  orig: 160, 55
+  offset: 0, 0
+  index: -1
+fx/3
+  rotate: false
+  xy: 164, 4
+  size: 156, 53
+  orig: 156, 53
+  offset: 0, 0
+  index: -1
+fx/c_00004
+  rotate: false
+  xy: 570, 127
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+fx/c_00005
+  rotate: false
+  xy: 732, 127
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+fx/c_00006
+  rotate: false
+  xy: 570, 5
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+fx/c_00007
+  rotate: false
+  xy: 732, 5
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+fx/eye_lwy_t_ptc_01_single
+  rotate: false
+  xy: 894, 53
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx/fx0001
+  rotate: false
+  xy: 2, 59
+  size: 140, 188
+  orig: 140, 188
+  offset: 0, 0
+  index: -1
+fx/fx0002
+  rotate: false
+  xy: 144, 59
+  size: 140, 188
+  orig: 140, 188
+  offset: 0, 0
+  index: -1
+fx/fx0003
+  rotate: false
+  xy: 286, 59
+  size: 140, 188
+  orig: 140, 188
+  offset: 0, 0
+  index: -1
+fx/fx0004
+  rotate: false
+  xy: 428, 59
+  size: 140, 188
+  orig: 140, 188
+  offset: 0, 0
+  index: -1
+fx/rush_dust2
+  rotate: false
+  xy: 894, 119
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

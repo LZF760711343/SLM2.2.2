@@ -1,0 +1,90 @@
+
+skin4_fight2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 392, 66
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/cloud_003
+  rotate: false
+  xy: 2, 132
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+fx/fx_a2_1
+  rotate: false
+  xy: 650, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fx_a2_2
+  rotate: false
+  xy: 458, 66
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fx_a2_3
+  rotate: false
+  xy: 716, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fx_a2_4
+  rotate: false
+  xy: 524, 66
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fx_b1_1
+  rotate: false
+  xy: 260, 132
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx/fx_b1_2
+  rotate: false
+  xy: 132, 66
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx/fx_b1_3
+  rotate: false
+  xy: 390, 132
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx/fx_b1_4
+  rotate: false
+  xy: 262, 66
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx/fx_b1_5
+  rotate: false
+  xy: 520, 132
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx/fx_b2
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

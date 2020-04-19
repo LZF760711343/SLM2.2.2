@@ -1,0 +1,167 @@
+
+effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/11
+  rotate: false
+  xy: 2, 313
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/33
+  rotate: false
+  xy: 2, 183
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/baodian_1892
+  rotate: false
+  xy: 198, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/cloud_003
+  rotate: false
+  xy: 2, 443
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+fx/ef_30
+  rotate: false
+  xy: 2, 2
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+fx/eff3_gyc_04
+  rotate: false
+  xy: 198, 130
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+fx/fx_a2_1
+  rotate: false
+  xy: 408, 443
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fx_a2_2
+  rotate: false
+  xy: 260, 388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fx_a2_3
+  rotate: false
+  xy: 326, 388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fx_a2_4
+  rotate: false
+  xy: 257, 322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fx_b1_1
+  rotate: false
+  xy: 2, 117
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx/fx_b1_2
+  rotate: true
+  xy: 191, 313
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx/fx_b1_3
+  rotate: false
+  xy: 2, 51
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx/fx_b1_4
+  rotate: true
+  xy: 132, 174
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx/fx_b1_5
+  rotate: true
+  xy: 132, 44
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx/shand_26
+  rotate: false
+  xy: 260, 454
+  size: 146, 53
+  orig: 146, 53
+  offset: 0, 0
+  index: -1
+fx/shand_27
+  rotate: true
+  xy: 132, 304
+  size: 137, 57
+  orig: 137, 57
+  offset: 0, 0
+  index: -1
+fx/shand_28
+  rotate: true
+  xy: 198, 201
+  size: 110, 57
+  orig: 110, 57
+  offset: 0, 0
+  index: -1
+fx_a_1
+  rotate: false
+  xy: 257, 256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_a_2
+  rotate: false
+  xy: 323, 322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_a_3
+  rotate: false
+  xy: 323, 256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_a_4
+  rotate: false
+  xy: 392, 377
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_d
+  rotate: false
+  xy: 389, 311
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

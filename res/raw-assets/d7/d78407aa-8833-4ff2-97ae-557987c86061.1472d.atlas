@@ -1,0 +1,90 @@
+
+effect.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/9875
+  rotate: true
+  xy: 211, 29
+  size: 32, 72
+  orig: 32, 72
+  offset: 0, 0
+  index: -1
+FX/MMP4
+  rotate: false
+  xy: 129, 46
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+FX/ef_28
+  rotate: true
+  xy: 2, 68
+  size: 58, 125
+  orig: 58, 125
+  offset: 0, 0
+  index: -1
+FX/ef_30
+  rotate: false
+  xy: 445, 14
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+FX/eff1_yw_01
+  rotate: false
+  xy: 344, 17
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+FX/huarui_0001
+  rotate: false
+  xy: 398, 16
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+FX/q_03
+  rotate: false
+  xy: 2, 2
+  size: 106, 64
+  orig: 106, 64
+  offset: 0, 0
+  index: -1
+fx_b_1
+  rotate: false
+  xy: 211, 63
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+fx_b_2
+  rotate: false
+  xy: 279, 63
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+fx_b_3
+  rotate: false
+  xy: 347, 63
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+fx_b_4
+  rotate: false
+  xy: 415, 63
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+fx_zd
+  rotate: false
+  xy: 285, 11
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1

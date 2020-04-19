@@ -1,0 +1,118 @@
+
+skin4.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-cao
+  rotate: true
+  xy: 73, 8
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+4-huangguang
+  rotate: true
+  xy: 273, 2
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+4-jiao1
+  rotate: false
+  xy: 478, 109
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+4-jiao2
+  rotate: false
+  xy: 104, 24
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+4-lian
+  rotate: false
+  xy: 320, 93
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+4-pifeng
+  rotate: false
+  xy: 420, 110
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+4-shen
+  rotate: true
+  xy: 273, 38
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+4-shou1
+  rotate: false
+  xy: 44, 2
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+4-shou2
+  rotate: false
+  xy: 306, 2
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+4-tou
+  rotate: true
+  xy: 202, 23
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+4-toufa
+  rotate: false
+  xy: 2, 40
+  size: 97, 86
+  orig: 97, 86
+  offset: 0, 0
+  index: -1
+4-toumao
+  rotate: true
+  xy: 449, 111
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+4-weiba
+  rotate: false
+  xy: 2, 2
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+4-weijin
+  rotate: false
+  xy: 371, 106
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 202, 89
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1
+特效/002(1)
+  rotate: false
+  xy: 101, 45
+  size: 99, 81
+  orig: 99, 81
+  offset: 0, 0
+  index: -1

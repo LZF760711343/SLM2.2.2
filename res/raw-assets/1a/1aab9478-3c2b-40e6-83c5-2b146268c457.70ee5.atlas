@@ -1,0 +1,83 @@
+
+effect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Electro-3
+  rotate: false
+  xy: 516, 748
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ef_01
+  rotate: false
+  xy: 2, 204
+  size: 251, 286
+  orig: 251, 286
+  offset: 0, 0
+  index: -1
+ef_24
+  rotate: false
+  xy: 852, 876
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ef_30
+  rotate: false
+  xy: 671, 652
+  size: 80, 94
+  orig: 80, 94
+  offset: 0, 0
+  index: -1
+ef_bai
+  rotate: false
+  xy: 516, 558
+  size: 153, 188
+  orig: 153, 188
+  offset: 0, 0
+  index: -1
+effect5_03
+  rotate: true
+  xy: 774, 720
+  size: 284, 76
+  orig: 284, 76
+  offset: 0, 0
+  index: -1
+gq
+  rotate: false
+  xy: 255, 210
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+guanq
+  rotate: false
+  xy: 2, 492
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+q_g2
+  rotate: false
+  xy: 852, 746
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+skhit5
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+tw
+  rotate: false
+  xy: 255, 362
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1

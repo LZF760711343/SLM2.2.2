@@ -1,0 +1,188 @@
+
+skin5.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5Ljiao
+  rotate: true
+  xy: 1876, 176
+  size: 94, 47
+  orig: 94, 47
+  offset: 0, 0
+  index: -1
+5Lshou1
+  rotate: true
+  xy: 1467, 218
+  size: 100, 135
+  orig: 100, 135
+  offset: 0, 0
+  index: -1
+5Lshou2
+  rotate: false
+  xy: 337, 220
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+5Rjiao
+  rotate: false
+  xy: 247, 225
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+5Rshou1
+  rotate: true
+  xy: 1670, 152
+  size: 118, 129
+  orig: 118, 129
+  offset: 0, 0
+  index: -1
+5Rshuo2
+  rotate: false
+  xy: 1801, 181
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+5jiaoL
+  rotate: false
+  xy: 148, 70
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+5jiaoR
+  rotate: true
+  xy: 155, 219
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+5shen
+  rotate: false
+  xy: 1467, 320
+  size: 205, 157
+  orig: 205, 157
+  offset: 0, 0
+  index: -1
+5tou
+  rotate: true
+  xy: 1932, 348
+  size: 129, 105
+  orig: 129, 105
+  offset: 0, 0
+  index: -1
+5wj
+  rotate: true
+  xy: 2, 68
+  size: 190, 144
+  orig: 190, 144
+  offset: 0, 0
+  index: -1
+5wuqi
+  rotate: false
+  xy: 2, 260
+  size: 151, 217
+  orig: 151, 217
+  offset: 0, 0
+  index: -1
+FX/JZ1
+  rotate: false
+  xy: 155, 275
+  size: 162, 202
+  orig: 162, 202
+  offset: 0, 0
+  index: -1
+FX/JZ2
+  rotate: false
+  xy: 319, 275
+  size: 162, 202
+  orig: 162, 202
+  offset: 0, 0
+  index: -1
+FX/JZ3
+  rotate: false
+  xy: 483, 275
+  size: 162, 202
+  orig: 162, 202
+  offset: 0, 0
+  index: -1
+FX/JZ4
+  rotate: false
+  xy: 647, 275
+  size: 162, 202
+  orig: 162, 202
+  offset: 0, 0
+  index: -1
+FX/JZ5
+  rotate: false
+  xy: 811, 275
+  size: 162, 202
+  orig: 162, 202
+  offset: 0, 0
+  index: -1
+FX/JZ6
+  rotate: false
+  xy: 975, 275
+  size: 162, 202
+  orig: 162, 202
+  offset: 0, 0
+  index: -1
+FX/JZ7
+  rotate: false
+  xy: 1139, 275
+  size: 162, 202
+  orig: 162, 202
+  offset: 0, 0
+  index: -1
+FX/JZ8
+  rotate: false
+  xy: 1303, 275
+  size: 162, 202
+  orig: 162, 202
+  offset: 0, 0
+  index: -1
+FX/jq5
+  rotate: false
+  xy: 148, 136
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+FX/line_01_2x2_01
+  rotate: false
+  xy: 2, 2
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+FX/line_01_2x2_02
+  rotate: true
+  xy: 1604, 190
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+FX/line_03
+  rotate: false
+  xy: 1674, 413
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+FX/line_04
+  rotate: false
+  xy: 1674, 347
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1674, 272
+  size: 231, 73
+  orig: 231, 73
+  offset: 0, 0
+  index: -1

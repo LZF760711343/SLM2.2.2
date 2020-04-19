@@ -1,0 +1,90 @@
+
+effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+33
+  rotate: false
+  xy: 2, 374
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+KJBZ_01
+  rotate: false
+  xy: 2, 250
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+KJBZ_02
+  rotate: false
+  xy: 132, 380
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+KJBZ_03
+  rotate: false
+  xy: 2, 126
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+KJBZ_04
+  rotate: false
+  xy: 255, 380
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+KJBZ_05
+  rotate: false
+  xy: 2, 2
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+KJBZ_06
+  rotate: false
+  xy: 378, 380
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+KJBZ_07
+  rotate: false
+  xy: 199, 256
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+KJBZ_08
+  rotate: false
+  xy: 322, 256
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+KJBZ_09
+  rotate: false
+  xy: 125, 107
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+fx_zd
+  rotate: false
+  xy: 199, 231
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+xinzuo
+  rotate: true
+  xy: 125, 231
+  size: 141, 72
+  orig: 141, 72
+  offset: 0, 0
+  index: -1

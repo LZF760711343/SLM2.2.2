@@ -1,0 +1,62 @@
+
+skin1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1Ler
+  rotate: false
+  xy: 113, 197
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+1Ljiao
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+1Rer
+  rotate: false
+  xy: 231, 236
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+1Rjiao
+  rotate: false
+  xy: 33, 2
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+1shenti
+  rotate: false
+  xy: 2, 155
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+1shenti2
+  rotate: false
+  xy: 2, 54
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+1yanjing
+  rotate: false
+  xy: 2, 34
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 113, 217
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

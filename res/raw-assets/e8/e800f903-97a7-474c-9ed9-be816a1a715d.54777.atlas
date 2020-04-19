@@ -1,0 +1,146 @@
+
+skin4_fight2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4Ljiao1
+  rotate: true
+  xy: 324, 93
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+4Ljiao2
+  rotate: true
+  xy: 2, 3
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+4Lyan
+  rotate: true
+  xy: 493, 199
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+4Rjiao1
+  rotate: true
+  xy: 54, 2
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+4Rjiao2
+  rotate: false
+  xy: 367, 126
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+4Ryan
+  rotate: false
+  xy: 493, 181
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+4shen
+  rotate: true
+  xy: 453, 172
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+4tou
+  rotate: false
+  xy: 363, 170
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+4wei
+  rotate: true
+  xy: 260, 163
+  size: 85, 101
+  orig: 85, 101
+  offset: 0, 0
+  index: -1
+4wei2
+  rotate: false
+  xy: 391, 129
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+4wj1
+  rotate: false
+  xy: 417, 145
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+4wj2
+  rotate: false
+  xy: 98, 8
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+4xx1
+  rotate: false
+  xy: 493, 223
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+4xx2
+  rotate: true
+  xy: 258, 79
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+FX/X1
+  rotate: false
+  xy: 153, 79
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+FX/glow_5
+  rotate: false
+  xy: 2, 33
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+FX/jq5
+  rotate: false
+  xy: 324, 120
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+FX/yun
+  rotate: false
+  xy: 2, 184
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 258, 97
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 153, 40
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

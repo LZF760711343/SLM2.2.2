@@ -1,0 +1,160 @@
+
+skin4,5.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4Larm
+  rotate: true
+  xy: 143, 13
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+4Lhand
+  rotate: false
+  xy: 270, 29
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+4Rarm
+  rotate: false
+  xy: 175, 18
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+4Rhand
+  rotate: false
+  xy: 422, 80
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+4body
+  rotate: false
+  xy: 2, 22
+  size: 106, 104
+  orig: 106, 104
+  offset: 0, 0
+  index: -1
+5Larm
+  rotate: true
+  xy: 444, 45
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+5Lhand_1
+  rotate: false
+  xy: 322, 81
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+5Lhand_2
+  rotate: true
+  xy: 2, 2
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+5Lhand_3
+  rotate: false
+  xy: 320, 38
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+5Rarm
+  rotate: false
+  xy: 110, 18
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+5Rhand_1
+  rotate: true
+  xy: 471, 82
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+5Rhand_2
+  rotate: false
+  xy: 407, 42
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+5Rhand_3
+  rotate: true
+  xy: 58, 3
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+5body_1
+  rotate: false
+  xy: 110, 43
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+5body_2
+  rotate: false
+  xy: 364, 42
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+5body_3
+  rotate: false
+  xy: 357, 15
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+5body_4
+  rotate: true
+  xy: 320, 2
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+5body_5
+  rotate: false
+  xy: 372, 80
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+5body_6
+  rotate: true
+  xy: 30, 3
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+effect_start/guang_02
+  rotate: false
+  xy: 475, 48
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+effect_start/guangb_04
+  rotate: false
+  xy: 204, 23
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 204, 89
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

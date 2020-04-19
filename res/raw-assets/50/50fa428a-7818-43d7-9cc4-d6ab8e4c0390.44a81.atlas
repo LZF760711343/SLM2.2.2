@@ -1,0 +1,90 @@
+
+effect.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_b2_1
+  rotate: false
+  xy: 2, 70
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+fx_b2_2
+  rotate: false
+  xy: 82, 70
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+fx_b2_3
+  rotate: false
+  xy: 162, 70
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+fx_b2_4
+  rotate: false
+  xy: 242, 70
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+fx_b2_5
+  rotate: false
+  xy: 322, 70
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+fx_b_1
+  rotate: true
+  xy: 2, 2
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+fx_b_2
+  rotate: true
+  xy: 67, 2
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+fx_b_3
+  rotate: true
+  xy: 132, 2
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+fx_b_4
+  rotate: true
+  xy: 197, 2
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+fx_b_5
+  rotate: true
+  xy: 262, 2
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+fx_c
+  rotate: false
+  xy: 327, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: false
+  xy: 402, 101
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xilian_00000
+  rotate: false
+  xy: 2, 307
+  size: 212, 59
+  orig: 212, 59
+  offset: 0, 0
+  index: -1
+xilian_00001
+  rotate: false
+  xy: 2, 246
+  size: 212, 59
+  orig: 212, 59
+  offset: 0, 0
+  index: -1
+xilian_00002
+  rotate: false
+  xy: 216, 307
+  size: 212, 59
+  orig: 212, 59
+  offset: 0, 0
+  index: -1
+xilian_00003
+  rotate: false
+  xy: 2, 185
+  size: 212, 59
+  orig: 212, 59
+  offset: 0, 0
+  index: -1
+xilian_00004
+  rotate: false
+  xy: 216, 246
+  size: 212, 59
+  orig: 212, 59
+  offset: 0, 0
+  index: -1
+xilian_00005
+  rotate: false
+  xy: 2, 124
+  size: 212, 59
+  orig: 212, 59
+  offset: 0, 0
+  index: -1
+xilian_00006
+  rotate: false
+  xy: 216, 185
+  size: 212, 59
+  orig: 212, 59
+  offset: 0, 0
+  index: -1
+xilian_00007
+  rotate: false
+  xy: 2, 63
+  size: 212, 59
+  orig: 212, 59
+  offset: 0, 0
+  index: -1
+xilian_00008
+  rotate: false
+  xy: 216, 124
+  size: 212, 59
+  orig: 212, 59
+  offset: 0, 0
+  index: -1
+xilian_00009
+  rotate: true
+  xy: 430, 154
+  size: 212, 59
+  orig: 212, 59
+  offset: 0, 0
+  index: -1
+xilian_00010
+  rotate: false
+  xy: 2, 2
+  size: 212, 59
+  orig: 212, 59
+  offset: 0, 0
+  index: -1
+xilian_00011
+  rotate: false
+  xy: 216, 63
+  size: 212, 59
+  orig: 212, 59
+  offset: 0, 0
+  index: -1

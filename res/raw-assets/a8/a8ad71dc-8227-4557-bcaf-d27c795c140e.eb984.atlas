@@ -1,0 +1,145 @@
+
+BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 1019
+  size: 1626, 1002
+  orig: 1626, 1002
+  offset: 0, 0
+  index: -1
+huo/huo0001
+  rotate: false
+  xy: 1598, 177
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+huo/huo0003
+  rotate: false
+  xy: 1979, 837
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+huo/huo0005
+  rotate: true
+  xy: 2006, 852
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+huo/huo0007
+  rotate: true
+  xy: 2006, 825
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+huoguang
+  rotate: false
+  xy: 2, 430
+  size: 1626, 587
+  orig: 1626, 587
+  offset: 0, 0
+  index: -1
+landian
+  rotate: false
+  xy: 1598, 219
+  size: 444, 196
+  orig: 444, 196
+  offset: 0, 0
+  index: -1
+yanguang
+  rotate: true
+  xy: 1630, 417
+  size: 1604, 347
+  orig: 1604, 347
+  offset: 0, 0
+  index: -1
+yuanhuo1
+  rotate: true
+  xy: 1979, 1383
+  size: 638, 49
+  orig: 638, 49
+  offset: 0, 0
+  index: -1
+yuanhuo2
+  rotate: true
+  xy: 1979, 879
+  size: 502, 56
+  orig: 502, 56
+  offset: 0, 0
+  index: -1
+zhongguang1
+  rotate: false
+  xy: 2, 2
+  size: 1594, 426
+  orig: 1594, 426
+  offset: 0, 0
+  index: -1
+
+BG2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dixiafaguang
+  rotate: false
+  xy: 749, 70
+  size: 1059, 128
+  orig: 1059, 128
+  offset: 0, 0
+  index: -1
+gaozhao
+  rotate: false
+  xy: 2, 2
+  size: 745, 615
+  orig: 745, 615
+  offset: 0, 0
+  index: -1
+huangdian
+  rotate: true
+  xy: 1630, 925
+  size: 1038, 309
+  orig: 1038, 309
+  offset: 0, 0
+  index: -1
+qiandian1
+  rotate: false
+  xy: 2, 619
+  size: 1585, 236
+  orig: 1585, 236
+  offset: 0, 0
+  index: -1
+qianjing1
+  rotate: false
+  xy: 749, 200
+  size: 795, 206
+  orig: 795, 206
+  offset: 0, 0
+  index: -1
+qianjing2
+  rotate: false
+  xy: 749, 408
+  size: 833, 209
+  orig: 833, 209
+  offset: 0, 0
+  index: -1
+xingzhou
+  rotate: false
+  xy: 2, 857
+  size: 1626, 528
+  orig: 1626, 528
+  offset: 0, 0
+  index: -1
+zhongjing
+  rotate: false
+  xy: 2, 1387
+  size: 1626, 576
+  orig: 1626, 576
+  offset: 0, 0
+  index: -1

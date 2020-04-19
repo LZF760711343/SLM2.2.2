@@ -1,0 +1,132 @@
+
+skin4.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4Lchi
+  rotate: false
+  xy: 73, 64
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+4Ljiao
+  rotate: true
+  xy: 72, 2
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+4Lshou
+  rotate: true
+  xy: 2, 6
+  size: 28, 68
+  orig: 28, 68
+  offset: 0, 0
+  index: -1
+4Rchi
+  rotate: true
+  xy: 828, 82
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+4Rjiao
+  rotate: true
+  xy: 130, 31
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+4Rshou
+  rotate: true
+  xy: 73, 36
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+4bozi
+  rotate: false
+  xy: 951, 78
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+4huo
+  rotate: true
+  xy: 761, 88
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+4huo2
+  rotate: true
+  xy: 688, 84
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+4huo3
+  rotate: true
+  xy: 615, 79
+  size: 46, 71
+  orig: 46, 71
+  offset: 0, 0
+  index: -1
+4huo4
+  rotate: true
+  xy: 890, 87
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+4peishi
+  rotate: true
+  xy: 171, 64
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+4shenti
+  rotate: false
+  xy: 171, 78
+  size: 109, 47
+  orig: 109, 47
+  offset: 0, 0
+  index: -1
+4tou
+  rotate: true
+  xy: 400, 56
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+4tou2
+  rotate: false
+  xy: 2, 36
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+fire_1
+  rotate: false
+  xy: 483, 61
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_2
+  rotate: false
+  xy: 549, 61
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 282, 88
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

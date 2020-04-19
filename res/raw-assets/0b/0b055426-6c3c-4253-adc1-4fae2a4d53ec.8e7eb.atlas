@@ -1,0 +1,117 @@
+
+BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caodi
+  rotate: false
+  xy: 2, 1350
+  size: 1626, 678
+  orig: 1626, 678
+  offset: 0, 0
+  index: -1
+huabang1
+  rotate: false
+  xy: 1630, 2
+  size: 336, 151
+  orig: 336, 151
+  offset: 0, 0
+  index: -1
+huabang2
+  rotate: false
+  xy: 1630, 155
+  size: 375, 245
+  orig: 375, 245
+  offset: 0, 0
+  index: -1
+huo/huo0001
+  rotate: false
+  xy: 1997, 1988
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+huo/huo0003
+  rotate: false
+  xy: 2, 55
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+huo/huo0005
+  rotate: false
+  xy: 1968, 113
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+huo/huo0007
+  rotate: false
+  xy: 1997, 1946
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+shan
+  rotate: true
+  xy: 1630, 402
+  size: 1626, 365
+  orig: 1626, 365
+  offset: 0, 0
+  index: -1
+tiankong
+  rotate: false
+  xy: 2, 302
+  size: 1626, 507
+  orig: 1626, 507
+  offset: 0, 0
+  index: -1
+yuanjingshu
+  rotate: false
+  xy: 2, 97
+  size: 1626, 203
+  orig: 1626, 203
+  offset: 0, 0
+  index: -1
+zhongjing
+  rotate: false
+  xy: 2, 811
+  size: 1626, 537
+  orig: 1626, 537
+  offset: 0, 0
+  index: -1
+
+BG2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hu
+  rotate: false
+  xy: 2, 145
+  size: 1626, 153
+  orig: 1626, 153
+  offset: 0, 0
+  index: -1
+qianjinghua
+  rotate: false
+  xy: 2, 300
+  size: 1626, 183
+  orig: 1626, 183
+  offset: 0, 0
+  index: -1
+xingqiu
+  rotate: true
+  xy: 1630, 2
+  size: 481, 211
+  orig: 481, 211
+  offset: 0, 0
+  index: -1
+yunceng
+  rotate: false
+  xy: 2, 27
+  size: 1220, 116
+  orig: 1220, 116
+  offset: 0, 0
+  index: -1

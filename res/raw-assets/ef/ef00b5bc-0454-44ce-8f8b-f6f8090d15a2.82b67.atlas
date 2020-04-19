@@ -1,0 +1,152 @@
+
+BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_guang3
+  rotate: false
+  xy: 1630, 1786
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_yezi
+  rotate: false
+  xy: 608, 30
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+qianjing
+  rotate: true
+  xy: 1630, 158
+  size: 1626, 115
+  orig: 1626, 115
+  offset: 0, 0
+  index: -1
+tiankong
+  rotate: true
+  xy: 1747, 971
+  size: 813, 251
+  orig: 813, 251
+  offset: 0, 0
+  index: -1
+tree0
+  rotate: true
+  xy: 1747, 176
+  size: 419, 193
+  orig: 419, 193
+  offset: 0, 0
+  index: -1
+tree1
+  rotate: false
+  xy: 236, 9
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+tree2
+  rotate: true
+  xy: 1888, 1944
+  size: 98, 67
+  orig: 98, 67
+  offset: 0, 0
+  index: -1
+tree3
+  rotate: false
+  xy: 525, 24
+  size: 81, 38
+  orig: 81, 38
+  offset: 0, 0
+  index: -1
+treeRhand
+  rotate: true
+  xy: 1766, 8
+  size: 166, 176
+  orig: 166, 176
+  offset: 0, 0
+  index: -1
+treeshenti
+  rotate: false
+  xy: 1747, 597
+  size: 228, 372
+  orig: 228, 372
+  offset: 0, 0
+  index: -1
+treeshenti2
+  rotate: true
+  xy: 1612, 7
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+tuteng1
+  rotate: true
+  xy: 154, 2
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+tuteng2
+  rotate: true
+  xy: 2, 2
+  size: 60, 150
+  orig: 60, 150
+  offset: 0, 0
+  index: -1
+tuteng3
+  rotate: true
+  xy: 401, 22
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+tuteng4
+  rotate: true
+  xy: 463, 22
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+tuteng5
+  rotate: true
+  xy: 299, 12
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+yuanjing
+  rotate: false
+  xy: 2, 64
+  size: 1608, 514
+  orig: 1608, 514
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 2, 580
+  size: 1626, 458
+  orig: 1626, 458
+  offset: 0, 0
+  index: -1
+zhongjing
+  rotate: false
+  xy: 2, 1040
+  size: 1626, 1002
+  orig: 1626, 1002
+  offset: 0, 0
+  index: -1
+
+BG2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+treeLhand
+  rotate: false
+  xy: 2, 2
+  size: 279, 192
+  orig: 279, 192
+  offset: 0, 0
+  index: -1

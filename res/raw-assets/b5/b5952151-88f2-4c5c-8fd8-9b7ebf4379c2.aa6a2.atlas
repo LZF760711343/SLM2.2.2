@@ -1,0 +1,181 @@
+
+skin1,2,3,4.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10043
+  rotate: false
+  xy: 2, 102
+  size: 147, 152
+  orig: 147, 152
+  offset: 0, 0
+  index: -1
+1shen
+  rotate: false
+  xy: 151, 105
+  size: 97, 77
+  orig: 97, 77
+  offset: 0, 0
+  index: -1
+1tiao
+  rotate: true
+  xy: 340, 68
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+1yan
+  rotate: false
+  xy: 336, 9
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+2shen
+  rotate: false
+  xy: 151, 184
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+2tiao
+  rotate: true
+  xy: 449, 179
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+2yan
+  rotate: true
+  xy: 410, 68
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+3shen
+  rotate: true
+  xy: 259, 172
+  size: 82, 93
+  orig: 82, 93
+  offset: 0, 0
+  index: -1
+3tiao
+  rotate: false
+  xy: 181, 16
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+3wei
+  rotate: false
+  xy: 124, 2
+  size: 55, 98
+  orig: 55, 98
+  offset: 0, 0
+  index: -1
+3yan
+  rotate: false
+  xy: 270, 4
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+4Llan
+  rotate: false
+  xy: 431, 75
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+4Lshou
+  rotate: true
+  xy: 472, 129
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+4Lshou1
+  rotate: true
+  xy: 383, 68
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+4Rlan
+  rotate: false
+  xy: 436, 105
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+4Rshou
+  rotate: false
+  xy: 340, 38
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+4Rshou1
+  rotate: false
+  xy: 382, 12
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+4qi
+  rotate: true
+  xy: 385, 35
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+4shen
+  rotate: false
+  xy: 270, 38
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+4tiao
+  rotate: false
+  xy: 354, 175
+  size: 93, 79
+  orig: 93, 79
+  offset: 0, 0
+  index: -1
+4wei
+  rotate: true
+  xy: 2, 4
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+4yan
+  rotate: false
+  xy: 383, 113
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+4yan1
+  rotate: false
+  xy: 181, 3
+  size: 52, 11
+  orig: 52, 11
+  offset: 0, 0
+  index: -1
+sgd
+  rotate: true
+  xy: 250, 124
+  size: 46, 98
+  orig: 46, 98
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 354, 136
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

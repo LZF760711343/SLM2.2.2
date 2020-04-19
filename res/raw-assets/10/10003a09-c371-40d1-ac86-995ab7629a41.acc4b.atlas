@@ -1,0 +1,62 @@
+
+effect.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 98
+  size: 461, 411
+  orig: 461, 461
+  offset: 0, 0
+  index: -1
+1548-1
+  rotate: false
+  xy: 465, 196
+  size: 205, 162
+  orig: 205, 162
+  offset: 0, 0
+  index: -1
+dguan_01
+  rotate: false
+  xy: 465, 360
+  size: 310, 149
+  orig: 310, 149
+  offset: 0, 0
+  index: -1
+eff1_yw_01
+  rotate: false
+  xy: 465, 117
+  size: 94, 77
+  orig: 94, 78
+  offset: 0, 0
+  index: -1
+eff2_zidan_02
+  rotate: false
+  xy: 777, 360
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+guanshe_01
+  rotate: false
+  xy: 777, 394
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+zha_0001
+  rotate: false
+  xy: 672, 290
+  size: 100, 68
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+zha_0003
+  rotate: false
+  xy: 2, 2
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1

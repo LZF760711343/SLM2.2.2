@@ -1,0 +1,69 @@
+
+BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud_005
+  rotate: false
+  xy: 1630, 209
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+qianjing
+  rotate: false
+  xy: 2, 182
+  size: 1626, 190
+  orig: 1626, 190
+  offset: 0, 0
+  index: -1
+shamo
+  rotate: false
+  xy: 2, 1073
+  size: 1626, 936
+  orig: 1626, 936
+  offset: 0, 0
+  index: -1
+smoke_002
+  rotate: false
+  xy: 1334, 52
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tiankong
+  rotate: false
+  xy: 2, 34
+  size: 812, 146
+  orig: 812, 146
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 2, 374
+  size: 1626, 307
+  orig: 1626, 307
+  offset: 0, 0
+  index: -1
+yunajing
+  rotate: false
+  xy: 816, 2
+  size: 516, 178
+  orig: 516, 178
+  offset: 0, 0
+  index: -1
+zhongjing1
+  rotate: false
+  xy: 2, 683
+  size: 1626, 388
+  orig: 1626, 388
+  offset: 0, 0
+  index: -1
+zhongjing2
+  rotate: true
+  xy: 1630, 467
+  size: 1542, 316
+  orig: 1542, 316
+  offset: 0, 0
+  index: -1

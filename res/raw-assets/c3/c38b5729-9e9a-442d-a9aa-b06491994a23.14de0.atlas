@@ -1,0 +1,118 @@
+
+skin5.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5diy
+  rotate: false
+  xy: 2, 14
+  size: 115, 37
+  orig: 115, 37
+  offset: 0, 0
+  index: -1
+5teng1
+  rotate: false
+  xy: 289, 8
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+5teng2
+  rotate: true
+  xy: 335, 13
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+5tou
+  rotate: true
+  xy: 243, 50
+  size: 76, 90
+  orig: 76, 90
+  offset: 0, 0
+  index: -1
+5wuqi
+  rotate: true
+  xy: 2, 53
+  size: 73, 139
+  orig: 73, 139
+  offset: 0, 0
+  index: -1
+5yez1
+  rotate: true
+  xy: 465, 61
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+5yez2
+  rotate: true
+  xy: 243, 2
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+5yifu
+  rotate: true
+  xy: 143, 43
+  size: 83, 98
+  orig: 83, 98
+  offset: 0, 0
+  index: -1
+5yousb
+  rotate: false
+  xy: 403, 37
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+5youxb
+  rotate: false
+  xy: 168, 14
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+5zhenz
+  rotate: false
+  xy: 401, 71
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+5zuodb
+  rotate: false
+  xy: 119, 22
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+5zuos
+  rotate: false
+  xy: 439, 48
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+5zuoxiab
+  rotate: false
+  xy: 137, 14
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+effect_start/guang_02
+  rotate: false
+  xy: 403, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+effect_start/guangb_04
+  rotate: false
+  xy: 335, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

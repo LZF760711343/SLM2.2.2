@@ -1,0 +1,671 @@
+
+effect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_02
+  rotate: false
+  xy: 328, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/biao
+  rotate: false
+  xy: 735, 367
+  size: 60, 95
+  orig: 60, 95
+  offset: 0, 0
+  index: -1
+机关/cuimian-shen
+  rotate: false
+  xy: 367, 3
+  size: 84, 108
+  orig: 84, 108
+  offset: 0, 0
+  index: -1
+机关/cuimuan-shen
+  rotate: false
+  xy: 529, 502
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+机关/dizuo
+  rotate: true
+  xy: 980, 442
+  size: 88, 42
+  orig: 88, 42
+  offset: 0, 0
+  index: -1
+机关/fx/1
+  rotate: false
+  xy: 2, 339
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/2
+  rotate: false
+  xy: 458, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/3
+  rotate: false
+  xy: 2, 209
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/4
+  rotate: false
+  xy: 588, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/5
+  rotate: false
+  xy: 2, 79
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/JYJ1
+  rotate: false
+  xy: 2, 839
+  size: 161, 183
+  orig: 161, 183
+  offset: 0, 0
+  index: -1
+机关/fx/JYJ2
+  rotate: false
+  xy: 2, 654
+  size: 161, 183
+  orig: 161, 183
+  offset: 0, 0
+  index: -1
+机关/fx/JYJ3
+  rotate: false
+  xy: 165, 839
+  size: 161, 183
+  orig: 161, 183
+  offset: 0, 0
+  index: -1
+机关/fx/JYJ4
+  rotate: false
+  xy: 2, 469
+  size: 161, 183
+  orig: 161, 183
+  offset: 0, 0
+  index: -1
+机关/fx/LX_01
+  rotate: false
+  xy: 718, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/LX_02
+  rotate: false
+  xy: 848, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/LX_03
+  rotate: false
+  xy: 165, 568
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/LX_04
+  rotate: false
+  xy: 165, 438
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/fx_b_1
+  rotate: false
+  xy: 132, 308
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/fx_b_2
+  rotate: false
+  xy: 132, 178
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/fx_b_3
+  rotate: false
+  xy: 132, 48
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/fx_b_4
+  rotate: false
+  xy: 328, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/fx_b_5
+  rotate: false
+  xy: 458, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/fx_b_6
+  rotate: false
+  xy: 588, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/fx_c_1
+  rotate: false
+  xy: 718, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/fx_c_2
+  rotate: false
+  xy: 848, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/fx_c_3
+  rotate: false
+  xy: 327, 634
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/fx_c_4
+  rotate: false
+  xy: 457, 634
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/fx_c_5
+  rotate: false
+  xy: 587, 634
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/fx_c_6
+  rotate: false
+  xy: 717, 634
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/glow_01
+  rotate: false
+  xy: 847, 634
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+机关/fx/glow_02
+  rotate: true
+  xy: 547, 532
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1
+机关/fx/glow_5
+  rotate: false
+  xy: 797, 367
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+机关/fx/glow_5_2
+  rotate: false
+  xy: 863, 367
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+机关/fx/guangsu
+  rotate: false
+  xy: 453, 35
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+机关/fx/guangsu2
+  rotate: false
+  xy: 519, 35
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+机关/fx/hs0005
+  rotate: false
+  xy: 356, 113
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+机关/fx/hs0006
+  rotate: false
+  xy: 905, 532
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+机关/fx/hs0007
+  rotate: false
+  xy: 453, 224
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+机关/fx/hs0008
+  rotate: false
+  xy: 458, 122
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+机关/fx/hs0009
+  rotate: false
+  xy: 531, 362
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+机关/fx/hs0010
+  rotate: false
+  xy: 633, 362
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+机关/fx/huo0001
+  rotate: false
+  xy: 262, 322
+  size: 92, 109
+  orig: 92, 109
+  offset: 0, 0
+  index: -1
+机关/fx/huo0002
+  rotate: false
+  xy: 262, 211
+  size: 92, 109
+  orig: 92, 109
+  offset: 0, 0
+  index: -1
+机关/fx/huo0003
+  rotate: false
+  xy: 262, 100
+  size: 92, 109
+  orig: 92, 109
+  offset: 0, 0
+  index: -1
+机关/fx/huo0004
+  rotate: false
+  xy: 356, 322
+  size: 92, 109
+  orig: 92, 109
+  offset: 0, 0
+  index: -1
+机关/fx/lightning2_1
+  rotate: true
+  xy: 978, 894
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+机关/fx/lightning2_2
+  rotate: true
+  xy: 293, 709
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+机关/fx/lightning2_3
+  rotate: false
+  xy: 132, 14
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+机关/fx/lightning2_4
+  rotate: true
+  xy: 978, 764
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+机关/fx/lightning301_01
+  rotate: false
+  xy: 977, 634
+  size: 32, 128
+  orig: 32, 128
+  offset: 0, 0
+  index: -1
+机关/fx/lightning301_02
+  rotate: true
+  xy: 547, 498
+  size: 32, 128
+  orig: 32, 128
+  offset: 0, 0
+  index: -1
+机关/fx/lightning301_03
+  rotate: true
+  xy: 677, 498
+  size: 32, 128
+  orig: 32, 128
+  offset: 0, 0
+  index: -1
+机关/fx/lightning301_04
+  rotate: true
+  xy: 2, 45
+  size: 32, 128
+  orig: 32, 128
+  offset: 0, 0
+  index: -1
+机关/fx/lightning_1
+  rotate: false
+  xy: 529, 464
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+机关/fx/lightning_2
+  rotate: false
+  xy: 659, 464
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+机关/fx/lightning_3
+  rotate: false
+  xy: 531, 328
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+机关/fx/lightning_4
+  rotate: false
+  xy: 797, 433
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+机关/fx/pp0001
+  rotate: false
+  xy: 132, 439
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+机关/fx/pp0002
+  rotate: false
+  xy: 927, 444
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+机关/fx/pp0003
+  rotate: false
+  xy: 295, 679
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+机关/fx/pp0004
+  rotate: false
+  xy: 295, 649
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+机关/fx/pp0005
+  rotate: false
+  xy: 929, 380
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+机关/fx/pp0006
+  rotate: false
+  xy: 929, 350
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+机关/fx/pp0007
+  rotate: false
+  xy: 697, 159
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+机关/fx/pp0008
+  rotate: false
+  xy: 695, 129
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+机关/fx/pp0009
+  rotate: false
+  xy: 727, 159
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+机关/fx/pp0010
+  rotate: false
+  xy: 725, 129
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+机关/jitan
+  rotate: true
+  xy: 262, 2
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+机关/lun1
+  rotate: false
+  xy: 697, 189
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+机关/lun2
+  rotate: true
+  xy: 644, 178
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+机关/pao
+  rotate: false
+  xy: 295, 433
+  size: 114, 76
+  orig: 114, 76
+  offset: 0, 0
+  index: -1
+机关/pao2
+  rotate: false
+  xy: 574, 2
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+机关/quan
+  rotate: true
+  xy: 661, 299
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+机关/tan
+  rotate: true
+  xy: 539, 2
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+机关/tan2
+  rotate: true
+  xy: 453, 2
+  size: 31, 84
+  orig: 31, 84
+  offset: 0, 0
+  index: -1
+机关/wushu
+  rotate: true
+  xy: 898, 474
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+机关/yao
+  rotate: true
+  xy: 807, 467
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+机关/zuanshi
+  rotate: false
+  xy: 692, 236
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+机关/zuanshi_l
+  rotate: false
+  xy: 650, 232
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+机关/上升
+  rotate: false
+  xy: 423, 433
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+机关/上升2
+  rotate: false
+  xy: 92, 11
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+机关/下降
+  rotate: true
+  xy: 450, 326
+  size: 105, 79
+  orig: 105, 79
+  offset: 0, 0
+  index: -1
+机关/下降2
+  rotate: false
+  xy: 929, 410
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+机关/传送阵
+  rotate: false
+  xy: 295, 511
+  size: 126, 121
+  orig: 126, 121
+  offset: 0, 0
+  index: -1
+机关/传送阵1
+  rotate: false
+  xy: 785, 543
+  size: 118, 89
+  orig: 118, 89
+  offset: 0, 0
+  index: -1
+机关/十字架
+  rotate: false
+  xy: 356, 215
+  size: 95, 105
+  orig: 95, 105
+  offset: 0, 0
+  index: -1
+机关/天平 杆
+  rotate: true
+  xy: 2, 2
+  size: 41, 88
+  orig: 41, 88
+  offset: 0, 0
+  index: -1
+机关/天平 称
+  rotate: false
+  xy: 458, 101
+  size: 97, 19
+  orig: 97, 19
+  offset: 0, 0
+  index: -1
+机关/天平 锅
+  rotate: true
+  xy: 644, 135
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+机关/美杜莎
+  rotate: true
+  xy: 675, 532
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+机关/锤子
+  rotate: true
+  xy: 560, 132
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+机关/闪电
+  rotate: false
+  xy: 555, 232
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+机关/黑洞
+  rotate: false
+  xy: 423, 518
+  size: 122, 114
+  orig: 122, 114
+  offset: 0, 0
+  index: -1
+机关/黑洞光效
+  rotate: false
+  xy: 165, 698
+  size: 126, 139
+  orig: 126, 139
+  offset: 0, 0
+  index: -1

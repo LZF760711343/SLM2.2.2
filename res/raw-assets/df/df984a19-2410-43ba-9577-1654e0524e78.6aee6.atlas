@@ -1,0 +1,111 @@
+
+skin3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3Lci
+  rotate: true
+  xy: 68, 75
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+3Rci
+  rotate: false
+  xy: 68, 23
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+3shen
+  rotate: true
+  xy: 68, 137
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+3tou
+  rotate: false
+  xy: 120, 140
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+3toufa1
+  rotate: false
+  xy: 125, 73
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+3toufa2
+  rotate: false
+  xy: 125, 107
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+3weijing1
+  rotate: false
+  xy: 186, 212
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+3weijing2
+  rotate: false
+  xy: 221, 187
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+3yan
+  rotate: false
+  xy: 186, 193
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+3zui
+  rotate: false
+  xy: 2, 2
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+lightning201
+  rotate: false
+  xy: 2, 149
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+lightning202
+  rotate: false
+  xy: 2, 83
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+lightning203
+  rotate: false
+  xy: 2, 17
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+lightning204
+  rotate: false
+  xy: 120, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 215
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

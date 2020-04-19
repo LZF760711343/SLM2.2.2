@@ -1,0 +1,111 @@
+
+skin3.png
+size: 262,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3jiaoL
+  rotate: true
+  xy: 123, 57
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+3jiaoR
+  rotate: true
+  xy: 181, 51
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+3shen
+  rotate: false
+  xy: 190, 170
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+3shou1L
+  rotate: false
+  xy: 174, 7
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+3shou1R
+  rotate: false
+  xy: 205, 12
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+3shou2L
+  rotate: false
+  xy: 143, 7
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+3shou2R
+  rotate: true
+  xy: 57, 2
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+3shou2R2
+  rotate: false
+  xy: 106, 11
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+3tou
+  rotate: false
+  xy: 2, 130
+  size: 129, 140
+  orig: 129, 140
+  offset: 0, 0
+  index: -1
+3tou2
+  rotate: false
+  xy: 2, 36
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1
+3wei
+  rotate: true
+  xy: 190, 91
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+3weij1
+  rotate: false
+  xy: 2, 2
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+3weij2
+  rotate: true
+  xy: 238, 50
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+3yan
+  rotate: true
+  xy: 95, 66
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 133, 97
+  size: 173, 55
+  orig: 173, 55
+  offset: 0, 0
+  index: -1

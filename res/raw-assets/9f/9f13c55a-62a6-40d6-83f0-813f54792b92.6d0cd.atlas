@@ -1,0 +1,13 @@
+
+skin4_fight2.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/yun
+  rotate: false
+  xy: 2, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+aureole.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/zh26
+  rotate: true
+  xy: 464, 5
+  size: 88, 179
+  orig: 88, 179
+  offset: 0, 0
+  index: -1
+fx/zh27
+  rotate: true
+  xy: 645, 5
+  size: 88, 179
+  orig: 88, 179
+  offset: 0, 0
+  index: -1
+fx/zh28
+  rotate: true
+  xy: 826, 5
+  size: 88, 179
+  orig: 88, 179
+  offset: 0, 0
+  index: -1
+fx/zh29
+  rotate: true
+  xy: 1007, 5
+  size: 88, 179
+  orig: 88, 179
+  offset: 0, 0
+  index: -1
+fx/zh30
+  rotate: true
+  xy: 283, 5
+  size: 88, 179
+  orig: 88, 179
+  offset: 0, 0
+  index: -1
+shudu
+  rotate: false
+  xy: 2, 2
+  size: 279, 91
+  orig: 279, 91
+  offset: 0, 0
+  index: -1

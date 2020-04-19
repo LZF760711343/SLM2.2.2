@@ -1,0 +1,118 @@
+
+effect.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dguan_01
+  rotate: false
+  xy: 2, 89
+  size: 310, 149
+  orig: 310, 149
+  offset: 0, 0
+  index: -1
+eff1_baozha_04
+  rotate: false
+  xy: 546, 31
+  size: 132, 134
+  orig: 132, 134
+  offset: 0, 0
+  index: -1
+eff1_dian_01
+  rotate: true
+  xy: 680, 16
+  size: 149, 117
+  orig: 149, 119
+  offset: 0, 1
+  index: -1
+eff1_yw_01
+  rotate: false
+  xy: 1343, 161
+  size: 94, 77
+  orig: 94, 78
+  offset: 0, 0
+  index: -1
+eff2_zidan_02
+  rotate: false
+  xy: 2, 2
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+eff3_bz02
+  rotate: true
+  xy: 916, 71
+  size: 113, 101
+  orig: 113, 108
+  offset: 0, 7
+  index: -1
+f_b_1
+  rotate: false
+  xy: 890, 186
+  size: 115, 52
+  orig: 115, 115
+  offset: 0, 30
+  index: -1
+f_b_2
+  rotate: false
+  xy: 773, 185
+  size: 115, 53
+  orig: 115, 115
+  offset: 0, 29
+  index: -1
+f_b_3
+  rotate: false
+  xy: 1007, 186
+  size: 115, 52
+  orig: 115, 115
+  offset: 0, 29
+  index: -1
+f_b_4
+  rotate: false
+  xy: 1124, 187
+  size: 115, 51
+  orig: 115, 115
+  offset: 0, 30
+  index: -1
+guanshe_01
+  rotate: false
+  xy: 799, 68
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+huo
+  rotate: false
+  xy: 314, 14
+  size: 230, 224
+  orig: 230, 230
+  offset: 0, 2
+  index: -1
+skill3_1
+  rotate: false
+  xy: 2, 36
+  size: 297, 51
+  orig: 297, 59
+  offset: 0, 3
+  index: -1
+skill3_4
+  rotate: false
+  xy: 546, 167
+  size: 225, 71
+  orig: 225, 77
+  offset: 0, 3
+  index: -1
+zha_0001
+  rotate: false
+  xy: 1241, 170
+  size: 100, 68
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+zha_0003
+  rotate: true
+  xy: 1019, 71
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1

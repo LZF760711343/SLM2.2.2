@@ -1,0 +1,41 @@
+
+skin1,2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1shenti
+  rotate: false
+  xy: 2, 2
+  size: 112, 108
+  orig: 112, 108
+  offset: 0, 0
+  index: -1
+1yanjing
+  rotate: false
+  xy: 137, 114
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+2shenti
+  rotate: false
+  xy: 2, 112
+  size: 133, 128
+  orig: 133, 128
+  offset: 0, 0
+  index: -1
+2yanjing
+  rotate: false
+  xy: 137, 158
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 137, 203
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

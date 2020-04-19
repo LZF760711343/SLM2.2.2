@@ -1,0 +1,83 @@
+
+skin2.png
+size: 231,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-houjia
+  rotate: false
+  xy: 2, 142
+  size: 107, 87
+  orig: 107, 87
+  offset: 0, 0
+  index: -1
+2-limian
+  rotate: true
+  xy: 111, 147
+  size: 82, 89
+  orig: 82, 89
+  offset: 0, 0
+  index: -1
+2-limian2
+  rotate: true
+  xy: 200, 27
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+2-shen
+  rotate: false
+  xy: 2, 51
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+2-toujiao
+  rotate: true
+  xy: 146, 2
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+2-wuqi
+  rotate: true
+  xy: 96, 52
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+2-yan
+  rotate: false
+  xy: 179, 5
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+2-yankuang
+  rotate: true
+  xy: 200, 48
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+FX/effect5_02
+  rotate: true
+  xy: 202, 92
+  size: 137, 21
+  orig: 137, 21
+  offset: 0, 0
+  index: -1
+FX/effect5_03
+  rotate: false
+  xy: 2, 11
+  size: 142, 38
+  orig: 142, 38
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 161, 29
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

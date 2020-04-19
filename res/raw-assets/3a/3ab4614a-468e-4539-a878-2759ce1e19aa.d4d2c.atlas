@@ -1,0 +1,48 @@
+
+skin1.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-cibang1
+  rotate: true
+  xy: 103, 26
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+1-cibang2
+  rotate: false
+  xy: 103, 50
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+1-lian
+  rotate: false
+  xy: 2, 2
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+1-shen
+  rotate: false
+  xy: 2, 23
+  size: 99, 93
+  orig: 99, 93
+  offset: 0, 0
+  index: -1
+1-weiba
+  rotate: true
+  xy: 221, 81
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 103, 79
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

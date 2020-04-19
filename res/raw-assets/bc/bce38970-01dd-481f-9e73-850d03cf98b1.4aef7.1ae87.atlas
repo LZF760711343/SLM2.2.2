@@ -1,0 +1,90 @@
+
+skin5.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5-jiao1
+  rotate: true
+  xy: 2, 2
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+5-jiao2
+  rotate: false
+  xy: 615, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+5-lian
+  rotate: false
+  xy: 342, 51
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+5-pifeng
+  rotate: false
+  xy: 215, 117
+  size: 260, 137
+  orig: 260, 137
+  offset: 0, 0
+  index: -1
+5-shen
+  rotate: false
+  xy: 215, 8
+  size: 125, 107
+  orig: 125, 107
+  offset: 0, 0
+  index: -1
+5-shou1
+  rotate: false
+  xy: 710, 178
+  size: 148, 76
+  orig: 148, 76
+  offset: 0, 0
+  index: -1
+5-shou2
+  rotate: true
+  xy: 860, 149
+  size: 105, 140
+  orig: 105, 140
+  offset: 0, 0
+  index: -1
+5-tou
+  rotate: true
+  xy: 477, 43
+  size: 135, 136
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+5-toufa
+  rotate: false
+  xy: 2, 61
+  size: 211, 193
+  orig: 211, 193
+  offset: 0, 0
+  index: -1
+5-weiba
+  rotate: true
+  xy: 677, 61
+  size: 115, 127
+  orig: 115, 127
+  offset: 0, 0
+  index: -1
+5-yaodai
+  rotate: true
+  xy: 615, 54
+  size: 124, 60
+  orig: 124, 60
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 477, 180
+  size: 231, 74
+  orig: 231, 74
+  offset: 0, 0
+  index: -1

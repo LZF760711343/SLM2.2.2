@@ -1,0 +1,97 @@
+
+effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+061720
+  rotate: false
+  xy: 2, 365
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+attack40001
+  rotate: false
+  xy: 2, 273
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: -1
+attack40002
+  rotate: false
+  xy: 132, 403
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: -1
+attack40003
+  rotate: false
+  xy: 2, 181
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: -1
+attack40004
+  rotate: false
+  xy: 244, 403
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: -1
+attack40005
+  rotate: false
+  xy: 2, 89
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: -1
+attack40006
+  rotate: false
+  xy: 2, 89
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: -1
+ef_30
+  rotate: false
+  xy: 68, 40
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+eff1_yw_01
+  rotate: false
+  xy: 443, 449
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+guanshe_01
+  rotate: false
+  xy: 2, 23
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jinbi03
+  rotate: true
+  xy: 114, 345
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+skl5
+  rotate: false
+  xy: 132, 378
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+tx9
+  rotate: false
+  xy: 356, 415
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1

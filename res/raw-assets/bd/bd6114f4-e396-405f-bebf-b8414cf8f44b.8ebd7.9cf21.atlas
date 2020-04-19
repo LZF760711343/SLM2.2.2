@@ -1,0 +1,117 @@
+
+BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/冰洞  中景
+  rotate: false
+  xy: 2, 1036
+  size: 1624, 1000
+  orig: 1624, 1000
+  offset: 0, 0
+  index: -1
+images/冰洞  前景（下对齐）(1624X272)
+  rotate: true
+  xy: 1628, 410
+  size: 812, 136
+  orig: 812, 136
+  offset: 0, 0
+  index: -1
+images/冰洞 远景云1(412X232)
+  rotate: true
+  xy: 1716, 200
+  size: 206, 116
+  orig: 206, 116
+  offset: 0, 0
+  index: -1
+images/冰洞 远景云4（上对齐）(1624X604)
+  rotate: true
+  xy: 1766, 408
+  size: 406, 151
+  orig: 406, 151
+  offset: 0, 0
+  index: -1
+images/冰洞 远景天空5（放大到1624x1000使用）
+  rotate: true
+  xy: 1766, 816
+  size: 406, 250
+  orig: 406, 250
+  offset: 0, 0
+  index: -1
+images/冰洞 远景山3（上对齐）(1624X613)
+  rotate: true
+  xy: 1628, 1224
+  size: 812, 307
+  orig: 812, 307
+  offset: 0, 0
+  index: -1
+images/冰洞 雪
+  rotate: false
+  xy: 2, 34
+  size: 1624, 1000
+  orig: 1624, 1000
+  offset: 0, 0
+  index: -1
+images/冰洞 雪2
+  rotate: false
+  xy: 2, 34
+  size: 1624, 1000
+  orig: 1624, 1000
+  offset: 0, 0
+  index: -1
+images/特效/guang1
+  rotate: true
+  xy: 2, 2
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+images/特效/guang2
+  rotate: false
+  xy: 1937, 1723
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+images/特效/guang2-1
+  rotate: true
+  xy: 1937, 1782
+  size: 254, 86
+  orig: 254, 86
+  offset: 0, 0
+  index: -1
+images/特效/guang2-2
+  rotate: true
+  xy: 1628, 154
+  size: 254, 86
+  orig: 254, 86
+  offset: 0, 0
+  index: -1
+images/特效/guang2-3
+  rotate: true
+  xy: 1919, 573
+  size: 241, 77
+  orig: 241, 77
+  offset: 0, 0
+  index: -1
+images/特效/guang3
+  rotate: false
+  xy: 1628, 95
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+
+BG2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/冰洞 远景2（上对齐）
+  rotate: false
+  xy: 2, 2
+  size: 1624, 574
+  orig: 1624, 574
+  offset: 0, 0
+  index: -1

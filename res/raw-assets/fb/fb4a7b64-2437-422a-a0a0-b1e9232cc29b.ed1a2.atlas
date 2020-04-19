@@ -1,0 +1,167 @@
+
+effect.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1001-16
+  rotate: false
+  xy: 2, 589
+  size: 384, 432
+  orig: 384, 432
+  offset: 0, 0
+  index: -1
+1325-2
+  rotate: false
+  xy: 2, 73
+  size: 318, 206
+  orig: 318, 221
+  offset: 0, 1
+  index: -1
+1325-3
+  rotate: false
+  xy: 1056, 724
+  size: 321, 297
+  orig: 321, 312
+  offset: 0, 13
+  index: -1
+1325-4
+  rotate: false
+  xy: 388, 718
+  size: 333, 303
+  orig: 333, 318
+  offset: 0, 11
+  index: -1
+1325-5
+  rotate: false
+  xy: 2, 281
+  size: 331, 306
+  orig: 331, 317
+  offset: 0, 9
+  index: -1
+1325-6
+  rotate: false
+  xy: 1709, 735
+  size: 326, 286
+  orig: 326, 315
+  offset: 0, 7
+  index: -1
+1325-7
+  rotate: false
+  xy: 723, 721
+  size: 331, 300
+  orig: 331, 315
+  offset: 0, 12
+  index: -1
+1325-8
+  rotate: false
+  xy: 1379, 732
+  size: 328, 289
+  orig: 328, 318
+  offset: 0, 27
+  index: -1
+1325-9
+  rotate: false
+  xy: 388, 593
+  size: 284, 123
+  orig: 284, 244
+  offset: 0, 110
+  index: -1
+33
+  rotate: false
+  xy: 388, 140
+  size: 230, 219
+  orig: 230, 230
+  offset: 0, 7
+  index: -1
+KJBZ_01
+  rotate: false
+  xy: 2, 2
+  size: 217, 69
+  orig: 217, 219
+  offset: 0, 79
+  index: -1
+KJBZ_02
+  rotate: false
+  xy: 738, 396
+  size: 217, 102
+  orig: 217, 219
+  offset: 0, 59
+  index: -1
+KJBZ_03
+  rotate: true
+  xy: 620, 118
+  size: 217, 160
+  orig: 217, 219
+  offset: 0, 31
+  index: -1
+KJBZ_04
+  rotate: true
+  xy: 957, 502
+  size: 217, 184
+  orig: 217, 219
+  offset: 0, 15
+  index: -1
+KJBZ_05
+  rotate: true
+  xy: 965, 283
+  size: 217, 207
+  orig: 217, 219
+  offset: 0, 3
+  index: -1
+KJBZ_06
+  rotate: false
+  xy: 738, 500
+  size: 217, 219
+  orig: 217, 219
+  offset: 0, 0
+  index: -1
+KJBZ_07
+  rotate: false
+  xy: 1143, 507
+  size: 217, 215
+  orig: 217, 219
+  offset: 0, 0
+  index: -1
+KJBZ_08
+  rotate: true
+  xy: 1174, 288
+  size: 217, 198
+  orig: 217, 219
+  offset: 0, 16
+  index: -1
+KJBZ_09
+  rotate: false
+  xy: 965, 89
+  size: 217, 192
+  orig: 217, 219
+  offset: 0, 14
+  index: -1
+bo_0686
+  rotate: false
+  xy: 388, 361
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+ice_nova_prep
+  rotate: true
+  xy: 782, 164
+  size: 230, 181
+  orig: 230, 230
+  offset: 0, 27
+  index: -1
+skill3_1
+  rotate: true
+  xy: 335, 290
+  size: 297, 51
+  orig: 297, 59
+  offset: 0, 3
+  index: -1
+xinzuo
+  rotate: true
+  xy: 620, 337
+  size: 254, 116
+  orig: 254, 129
+  offset: 0, 4
+  index: -1

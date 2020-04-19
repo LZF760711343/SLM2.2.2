@@ -1,0 +1,90 @@
+
+skin5.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5Lshou
+  rotate: false
+  xy: 326, 64
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+5Lxu
+  rotate: false
+  xy: 2, 2
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+5Lyan
+  rotate: false
+  xy: 422, 113
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+5Rshou
+  rotate: false
+  xy: 393, 105
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+5Rxu
+  rotate: false
+  xy: 393, 91
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+5Ryan
+  rotate: false
+  xy: 26, 4
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+5quan1
+  rotate: false
+  xy: 126, 58
+  size: 117, 65
+  orig: 117, 65
+  offset: 0, 0
+  index: -1
+5quan2
+  rotate: false
+  xy: 2, 56
+  size: 122, 67
+  orig: 122, 67
+  offset: 0, 0
+  index: -1
+5tou1
+  rotate: false
+  xy: 245, 60
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1
+5wei
+  rotate: true
+  xy: 326, 84
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+5zui
+  rotate: false
+  xy: 355, 64
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 17
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

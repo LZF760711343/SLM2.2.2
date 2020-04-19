@@ -1,0 +1,181 @@
+
+skin5.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5-jiao1
+  rotate: true
+  xy: 132, 151
+  size: 51, 105
+  orig: 51, 105
+  offset: 0, 0
+  index: -1
+5-jiao2
+  rotate: false
+  xy: 2, 11
+  size: 56, 108
+  orig: 56, 108
+  offset: 0, 0
+  index: -1
+5-jiao3
+  rotate: false
+  xy: 60, 14
+  size: 46, 105
+  orig: 46, 105
+  offset: 0, 0
+  index: -1
+5-jiao4
+  rotate: false
+  xy: 248, 35
+  size: 42, 97
+  orig: 42, 97
+  offset: 0, 0
+  index: -1
+5-jiao5
+  rotate: true
+  xy: 132, 108
+  size: 41, 98
+  orig: 41, 98
+  offset: 0, 0
+  index: -1
+5-pifeng1
+  rotate: true
+  xy: 389, 176
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+5-pifeng2
+  rotate: true
+  xy: 184, 28
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+5-shou1
+  rotate: false
+  xy: 419, 139
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+5-shou2
+  rotate: true
+  xy: 368, 58
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+5-shou3
+  rotate: false
+  xy: 467, 150
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+5-tou
+  rotate: false
+  xy: 239, 134
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+5-wuqi
+  rotate: true
+  xy: 132, 204
+  size: 45, 173
+  orig: 45, 173
+  offset: 0, 0
+  index: -1
+5-xing
+  rotate: false
+  xy: 424, 116
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+5-yan
+  rotate: true
+  xy: 500, 219
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+5-yan1
+  rotate: false
+  xy: 108, 22
+  size: 34, 8
+  orig: 34, 8
+  offset: 0, 0
+  index: -1
+5-zui
+  rotate: false
+  xy: 389, 142
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+FX/MMP1
+  rotate: false
+  xy: 108, 32
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+FX/MMP2
+  rotate: false
+  xy: 313, 136
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+FX/MMP3
+  rotate: false
+  xy: 424, 175
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+FX/MMP4
+  rotate: false
+  xy: 292, 58
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+FX/fire_colors_2
+  rotate: false
+  xy: 2, 121
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/gg1
+  rotate: false
+  xy: 292, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+FX/gg2
+  rotate: false
+  xy: 348, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+FX/gg3
+  rotate: false
+  xy: 368, 80
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 307, 212
+  size: 115, 37
+  orig: 115, 37
+  offset: 0, 0
+  index: -1

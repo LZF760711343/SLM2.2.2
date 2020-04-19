@@ -1,0 +1,41 @@
+
+effect.png
+size: 217,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/JWJ
+  rotate: true
+  xy: 2, 2
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: -1
+FX/ef_24
+  rotate: false
+  xy: 99, 9
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+FX/eff_jj_0002
+  rotate: false
+  xy: 104, 141
+  size: 74, 74
+  orig: 74, 76
+  offset: 0, 2
+  index: -1
+FX/gq_001
+  rotate: false
+  xy: 2, 110
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+FX/q_a1
+  rotate: false
+  xy: 104, 75
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

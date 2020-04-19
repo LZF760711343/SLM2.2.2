@@ -1,0 +1,97 @@
+
+Artifact4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7171000_01
+  rotate: false
+  xy: 707, 381
+  size: 128, 119
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+7171000_02
+  rotate: false
+  xy: 837, 381
+  size: 128, 119
+  orig: 128, 128
+  offset: 0, 9
+  index: -1
+DropItemBoxSenior
+  rotate: true
+  xy: 967, 436
+  size: 64, 52
+  orig: 64, 64
+  offset: 0, 6
+  index: -1
+ef_28
+  rotate: true
+  xy: 475, 385
+  size: 115, 230
+  orig: 115, 249
+  offset: 0, 13
+  index: -1
+ef_30
+  rotate: false
+  xy: 359, 180
+  size: 80, 92
+  orig: 80, 94
+  offset: 0, 1
+  index: -1
+eff1_yw_01
+  rotate: false
+  xy: 229, 26
+  size: 104, 86
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 688, 251
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow4-1
+  rotate: false
+  xy: 818, 251
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+q_03
+  rotate: false
+  xy: 475, 284
+  size: 211, 99
+  orig: 211, 128
+  offset: 0, 8
+  index: -1
+quan
+  rotate: false
+  xy: 229, 114
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sq3
+  rotate: false
+  xy: 260, 274
+  size: 213, 226
+  orig: 213, 228
+  offset: 0, 1
+  index: -1
+sq3-fz
+  rotate: false
+  xy: 2, 244
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+sq3-l
+  rotate: false
+  xy: 2, 2
+  size: 225, 240
+  orig: 225, 240
+  offset: 0, 0
+  index: -1

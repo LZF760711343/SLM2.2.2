@@ -1,0 +1,174 @@
+
+skin4.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4Ldai1
+  rotate: false
+  xy: 736, 224
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+4Ldai2
+  rotate: false
+  xy: 692, 219
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+4Ler
+  rotate: true
+  xy: 421, 5
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+4Ler2
+  rotate: false
+  xy: 470, 5
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+4Ljiao
+  rotate: true
+  xy: 518, 61
+  size: 25, 63
+  orig: 25, 63
+  offset: 0, 0
+  index: -1
+4Lshou
+  rotate: true
+  xy: 825, 233
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+4Rdai1
+  rotate: false
+  xy: 649, 157
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+4Rdai2
+  rotate: false
+  xy: 36, 2
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+4Rer
+  rotate: true
+  xy: 636, 220
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+4Rjiao
+  rotate: true
+  xy: 123, 15
+  size: 19, 54
+  orig: 19, 55
+  offset: 0, 1
+  index: -1
+4Rshou
+  rotate: true
+  xy: 779, 228
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+4shen
+  rotate: false
+  xy: 366, 10
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+4tou
+  rotate: true
+  xy: 311, 8
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+4tou3
+  rotate: false
+  xy: 518, 88
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+4wei
+  rotate: true
+  xy: 594, 156
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+4wei2
+  rotate: false
+  xy: 649, 189
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+4wj
+  rotate: false
+  xy: 66, 5
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+4yan
+  rotate: false
+  xy: 179, 18
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+5qiu
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+FX
+  rotate: false
+  xy: 260, 2
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+FX1
+  rotate: false
+  xy: 518, 150
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+ice_nova_prep
+  rotate: false
+  xy: 260, 53
+  size: 256, 201
+  orig: 256, 256
+  offset: 0, 30
+  index: -1
+jq5
+  rotate: false
+  xy: 2, 36
+  size: 256, 218
+  orig: 256, 256
+  offset: 0, 23
+  index: -1
+shadow
+  rotate: false
+  xy: 518, 217
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

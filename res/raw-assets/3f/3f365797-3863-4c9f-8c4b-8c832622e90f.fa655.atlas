@@ -1,0 +1,76 @@
+
+effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/CHDZ
+  rotate: false
+  xy: 2, 68
+  size: 211, 183
+  orig: 211, 183
+  offset: 0, 0
+  index: -1
+FX/XB
+  rotate: false
+  xy: 248, 280
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+FX/ef_28
+  rotate: true
+  xy: 373, 433
+  size: 58, 125
+  orig: 58, 125
+  offset: 0, 0
+  index: -1
+FX/eff1_yw02
+  rotate: false
+  xy: 336, 334
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+FX/glow_1
+  rotate: false
+  xy: 132, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+FX/glow_2
+  rotate: true
+  xy: 2, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+FX/glow_5
+  rotate: false
+  xy: 248, 368
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+FX/guang_02
+  rotate: false
+  xy: 439, 393
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+FX/guanq2
+  rotate: false
+  xy: 2, 253
+  size: 244, 238
+  orig: 244, 238
+  offset: 0, 0
+  index: -1
+FX/shanguan
+  rotate: false
+  xy: 373, 367
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

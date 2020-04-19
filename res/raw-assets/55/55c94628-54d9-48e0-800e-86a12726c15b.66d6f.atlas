@@ -1,0 +1,167 @@
+
+skin5.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5-bai
+  rotate: false
+  xy: 93, 48
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+5-houbai
+  rotate: false
+  xy: 419, 86
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+5-jiao1
+  rotate: false
+  xy: 70, 15
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+5-jiao2
+  rotate: true
+  xy: 233, 28
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+5-lian
+  rotate: true
+  xy: 351, 63
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+5-shen
+  rotate: true
+  xy: 419, 47
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+5-shou1
+  rotate: false
+  xy: 374, 40
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+5-shou2
+  rotate: false
+  xy: 154, 48
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+5-shoubi1
+  rotate: false
+  xy: 285, 32
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+5-toufa1
+  rotate: false
+  xy: 91, 16
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+5-toufa2
+  rotate: false
+  xy: 354, 32
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+5-toufa3
+  rotate: false
+  xy: 2, 52
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+5-toufa4
+  rotate: false
+  xy: 2, 7
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+5-toufa5
+  rotate: false
+  xy: 321, 32
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+5-toufa6
+  rotate: false
+  xy: 233, 2
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+5-weiba
+  rotate: false
+  xy: 211, 53
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+5-xiongmao
+  rotate: true
+  xy: 477, 36
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+5-yan
+  rotate: true
+  xy: 480, 79
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+7171000_01
+  rotate: false
+  xy: 131, 14
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+7171000_02
+  rotate: false
+  xy: 165, 14
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+DropItemBoxSenior
+  rotate: false
+  xy: 199, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 285, 58
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 93, 85
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

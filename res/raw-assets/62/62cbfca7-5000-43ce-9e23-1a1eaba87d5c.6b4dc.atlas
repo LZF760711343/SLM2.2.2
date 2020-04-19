@@ -1,0 +1,167 @@
+
+skin4_fight2.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4LTjiao
+  rotate: true
+  xy: 418, 98
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+4Ljiao
+  rotate: false
+  xy: 197, 47
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+4Lshou
+  rotate: false
+  xy: 330, 79
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+4RTjiao
+  rotate: true
+  xy: 366, 68
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+4Rjiao
+  rotate: false
+  xy: 162, 55
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+4Rshou1
+  rotate: true
+  xy: 79, 2
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+4Rshou2
+  rotate: true
+  xy: 32, 6
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+4chi
+  rotate: true
+  xy: 269, 75
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+4shenti
+  rotate: false
+  xy: 2, 22
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+4tou
+  rotate: false
+  xy: 206, 80
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+4weiba
+  rotate: false
+  xy: 366, 97
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+4wuqi
+  rotate: false
+  xy: 79, 39
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+4xianglian
+  rotate: false
+  xy: 115, 54
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+4xianglian2
+  rotate: false
+  xy: 115, 44
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+4yanjing
+  rotate: false
+  xy: 2, 6
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+4yjg1
+  rotate: true
+  xy: 115, 39
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+4yjg2
+  rotate: false
+  xy: 124, 6
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+4yjg3
+  rotate: false
+  xy: 230, 66
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+4yjg4
+  rotate: false
+  xy: 412, 90
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+4zuiba
+  rotate: false
+  xy: 469, 96
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+5wuqi
+  rotate: false
+  xy: 120, 83
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+glow_01
+  rotate: false
+  xy: 124, 20
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 89
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

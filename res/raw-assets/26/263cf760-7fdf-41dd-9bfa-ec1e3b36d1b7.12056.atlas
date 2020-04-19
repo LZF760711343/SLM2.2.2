@@ -1,0 +1,209 @@
+
+qiangjie.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1级建筑PNG
+  rotate: false
+  xy: 1407, 653
+  size: 338, 369
+  orig: 338, 369
+  offset: 0, 0
+  index: -1
+2级建筑PNG
+  rotate: false
+  xy: 970, 607
+  size: 435, 415
+  orig: 435, 415
+  offset: 0, 0
+  index: -1
+3级建筑PNG
+  rotate: false
+  xy: 2, 134
+  size: 464, 432
+  orig: 464, 432
+  offset: 0, 0
+  index: -1
+4级建筑PNG
+  rotate: false
+  xy: 2, 568
+  size: 489, 454
+  orig: 489, 454
+  offset: 0, 0
+  index: -1
+5级建筑PNG
+  rotate: false
+  xy: 493, 607
+  size: 475, 415
+  orig: 475, 415
+  offset: 0, 0
+  index: -1
+fx_c_01
+  rotate: false
+  xy: 2, 68
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_02
+  rotate: false
+  xy: 2, 2
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_03
+  rotate: false
+  xy: 1747, 958
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_04
+  rotate: false
+  xy: 132, 68
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_05
+  rotate: false
+  xy: 132, 2
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_06
+  rotate: false
+  xy: 1747, 892
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_07
+  rotate: false
+  xy: 1877, 958
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+fx_c_08
+  rotate: false
+  xy: 262, 68
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+smoke0001
+  rotate: true
+  xy: 262, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke0002
+  rotate: false
+  xy: 1747, 762
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke0003
+  rotate: true
+  xy: 1877, 892
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke0004
+  rotate: false
+  xy: 392, 4
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke0005
+  rotate: false
+  xy: 1813, 762
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke0006
+  rotate: true
+  xy: 1747, 696
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke0007
+  rotate: false
+  xy: 1879, 762
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke0008
+  rotate: false
+  xy: 1945, 762
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke30001
+  rotate: true
+  xy: 1877, 696
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke30002
+  rotate: true
+  xy: 1407, 587
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke30003
+  rotate: true
+  xy: 1537, 587
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke30004
+  rotate: true
+  xy: 1747, 630
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke30005
+  rotate: true
+  xy: 1877, 630
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke30006
+  rotate: true
+  xy: 493, 541
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke30007
+  rotate: true
+  xy: 623, 541
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+smoke30008
+  rotate: true
+  xy: 753, 541
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1

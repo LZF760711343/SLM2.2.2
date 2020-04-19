@@ -1,0 +1,174 @@
+
+skin3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3-bozi
+  rotate: false
+  xy: 616, 380
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+3-cibangr
+  rotate: false
+  xy: 212, 26
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+3-datuil
+  rotate: true
+  xy: 392, 43
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+3-datuir
+  rotate: true
+  xy: 928, 464
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+3-jiaol
+  rotate: true
+  xy: 334, 39
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+3-jiaor
+  rotate: true
+  xy: 688, 376
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+3-shangshoubil
+  rotate: true
+  xy: 334, 2
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+3-shangshoubir
+  rotate: false
+  xy: 986, 467
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+3-shen
+  rotate: true
+  xy: 753, 411
+  size: 99, 119
+  orig: 99, 119
+  offset: 0, 0
+  index: -1
+3-shoubil
+  rotate: true
+  xy: 596, 267
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+3-shoubir
+  rotate: false
+  xy: 596, 323
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+3-shouzhangr
+  rotate: false
+  xy: 647, 338
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+3-shouzhil
+  rotate: true
+  xy: 521, 95
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+3-tou
+  rotate: false
+  xy: 442, 127
+  size: 132, 134
+  orig: 132, 134
+  offset: 0, 0
+  index: -1
+3-toufa
+  rotate: false
+  xy: 279, 30
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+3-toufa1
+  rotate: false
+  xy: 442, 263
+  size: 152, 115
+  orig: 152, 115
+  offset: 0, 0
+  index: -1
+3-toufa2
+  rotate: false
+  xy: 874, 455
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+3-toufa3
+  rotate: false
+  xy: 442, 380
+  size: 172, 130
+  orig: 172, 130
+  offset: 0, 0
+  index: -1
+3-toufa5
+  rotate: true
+  xy: 442, 95
+  size: 30, 77
+  orig: 30, 77
+  offset: 0, 0
+  index: -1
+3-wuqi
+  rotate: true
+  xy: 616, 416
+  size: 94, 135
+  orig: 94, 135
+  offset: 0, 0
+  index: -1
+3-xuan
+  rotate: true
+  xy: 749, 380
+  size: 29, 61
+  orig: 29, 61
+  offset: 0, 0
+  index: -1
+3-xuan1
+  rotate: true
+  xy: 812, 380
+  size: 29, 61
+  orig: 29, 61
+  offset: 0, 0
+  index: -1
+fx/guanq2
+  rotate: false
+  xy: 2, 82
+  size: 438, 428
+  orig: 438, 428
+  offset: 0, 0
+  index: -1
+yinzi
+  rotate: false
+  xy: 2, 13
+  size: 208, 67
+  orig: 208, 67
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+effect.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bonus Shield
+  rotate: false
+  xy: 336, 105
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+atk3_20002
+  rotate: false
+  xy: 574, 166
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+baodian_1892
+  rotate: false
+  xy: 660, 169
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+dguan_01
+  rotate: false
+  xy: 162, 150
+  size: 172, 83
+  orig: 172, 83
+  offset: 0, 0
+  index: -1
+eff1_dian_02
+  rotate: false
+  xy: 104, 22
+  size: 52, 85
+  orig: 52, 85
+  offset: 0, 0
+  index: -1
+eff1_yw_01
+  rotate: false
+  xy: 604, 120
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+effect5_04
+  rotate: false
+  xy: 162, 110
+  size: 142, 38
+  orig: 142, 38
+  offset: 0, 0
+  index: -1
+gq_001
+  rotate: false
+  xy: 2, 2
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+js_01
+  rotate: false
+  xy: 466, 111
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+js_02
+  rotate: false
+  xy: 726, 177
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+js_03
+  rotate: false
+  xy: 795, 177
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+js_04
+  rotate: false
+  xy: 864, 177
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+js_05
+  rotate: false
+  xy: 933, 177
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+js_06
+  rotate: false
+  xy: 535, 108
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+q_03
+  rotate: false
+  xy: 466, 169
+  size: 106, 64
+  orig: 106, 64
+  offset: 0, 0
+  index: -1
+zhao
+  rotate: false
+  xy: 2, 109
+  size: 158, 124
+  orig: 158, 124
+  offset: 0, 0
+  index: -1

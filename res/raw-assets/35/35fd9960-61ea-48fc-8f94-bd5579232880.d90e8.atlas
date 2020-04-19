@@ -1,0 +1,97 @@
+
+skin3.png
+size: 158,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3biyan
+  rotate: false
+  xy: 2, 4
+  size: 40, 6
+  orig: 40, 6
+  offset: 0, 0
+  index: -1
+3gong
+  rotate: true
+  xy: 2, 50
+  size: 34, 86
+  orig: 34, 86
+  offset: 0, 0
+  index: -1
+3jian
+  rotate: false
+  xy: 2, 29
+  size: 83, 19
+  orig: 83, 19
+  offset: 0, 0
+  index: -1
+3shenti
+  rotate: false
+  xy: 89, 102
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+3tou
+  rotate: false
+  xy: 2, 86
+  size: 85, 68
+  orig: 85, 68
+  offset: 0, 0
+  index: -1
+3yan
+  rotate: false
+  xy: 2, 12
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+3yiling
+  rotate: false
+  xy: 90, 49
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+3yousb
+  rotate: false
+  xy: 134, 52
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+3youtui
+  rotate: true
+  xy: 52, 10
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+3youxb
+  rotate: false
+  xy: 130, 80
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+3zuos
+  rotate: false
+  xy: 90, 68
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+3zuotui
+  rotate: true
+  xy: 87, 30
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+diy
+  rotate: true
+  xy: 140, 108
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1

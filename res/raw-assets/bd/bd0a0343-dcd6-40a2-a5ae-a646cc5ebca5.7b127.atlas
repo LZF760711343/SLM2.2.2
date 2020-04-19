@@ -1,0 +1,48 @@
+
+effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7171000_01
+  rotate: false
+  xy: 2, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+7171000_02
+  rotate: false
+  xy: 260, 326
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+DropItemBoxSenior
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+glow22
+  rotate: false
+  xy: 2, 198
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+pattern040
+  rotate: false
+  xy: 132, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 262, 196
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

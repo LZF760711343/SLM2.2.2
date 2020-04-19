@@ -1,0 +1,160 @@
+
+skin5.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5Lerduo
+  rotate: true
+  xy: 159, 14
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+5Lshou
+  rotate: false
+  xy: 363, 143
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+5Rerduo
+  rotate: true
+  xy: 326, 133
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+5Rshou
+  rotate: true
+  xy: 217, 90
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+5lian
+  rotate: false
+  xy: 406, 147
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+5maozi
+  rotate: false
+  xy: 262, 184
+  size: 98, 70
+  orig: 98, 70
+  offset: 0, 0
+  index: -1
+5peishi
+  rotate: false
+  xy: 451, 154
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+5shenti1
+  rotate: false
+  xy: 2, 48
+  size: 95, 76
+  orig: 95, 76
+  offset: 0, 0
+  index: -1
+5shenti2
+  rotate: false
+  xy: 262, 132
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+5toufa1
+  rotate: false
+  xy: 220, 33
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+5toufa2
+  rotate: false
+  xy: 494, 220
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+5toufa3
+  rotate: false
+  xy: 99, 2
+  size: 58, 83
+  orig: 58, 83
+  offset: 0, 0
+  index: -1
+5weijin
+  rotate: false
+  xy: 2, 15
+  size: 79, 31
+  orig: 79, 31
+  offset: 0, 0
+  index: -1
+5xueqiu1
+  rotate: false
+  xy: 188, 17
+  size: 30, 68
+  orig: 30, 68
+  offset: 0, 0
+  index: -1
+5xueqiu2
+  rotate: false
+  xy: 251, 61
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+5xueqiu3
+  rotate: true
+  xy: 265, 100
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+5yanjing
+  rotate: false
+  xy: 188, 2
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+hit/g_c2
+  rotate: false
+  xy: 362, 190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hit/q_b
+  rotate: false
+  xy: 428, 190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hit/q_i
+  rotate: false
+  xy: 2, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hit/s_g
+  rotate: false
+  xy: 132, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 99, 87
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1

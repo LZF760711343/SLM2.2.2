@@ -1,0 +1,146 @@
+
+effect.png
+size: 1101,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb
+  rotate: false
+  xy: 858, 196
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+ef-zidan
+  rotate: true
+  xy: 754, 3
+  size: 35, 113
+  orig: 35, 113
+  offset: 0, 0
+  index: -1
+ef_30
+  rotate: true
+  xy: 871, 42
+  size: 72, 85
+  orig: 72, 85
+  offset: 0, 0
+  index: -1
+eff1_bd01
+  rotate: true
+  xy: 986, 3
+  size: 81, 68
+  orig: 81, 68
+  offset: 0, 0
+  index: -1
+eff1_yw_01
+  rotate: false
+  xy: 871, 116
+  size: 94, 78
+  orig: 94, 78
+  offset: 0, 0
+  index: -1
+eff3_bz02
+  rotate: false
+  xy: 986, 203
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+eff3_bz03
+  rotate: true
+  xy: 459, 146
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+eff3_bz04
+  rotate: false
+  xy: 119, 141
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+eff3_bz05
+  rotate: true
+  xy: 291, 144
+  size: 167, 166
+  orig: 167, 166
+  offset: 0, 0
+  index: -1
+eff3_bz06
+  rotate: false
+  xy: 2, 2
+  size: 126, 117
+  orig: 126, 117
+  offset: 0, 0
+  index: -1
+glow5
+  rotate: false
+  xy: 975, 86
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+q_03
+  rotate: true
+  xy: 2, 121
+  size: 190, 115
+  orig: 190, 115
+  offset: 0, 0
+  index: -1
+trail07
+  rotate: true
+  xy: 869, 9
+  size: 29, 115
+  orig: 29, 115
+  offset: 0, 0
+  index: -1
+zd (1)
+  rotate: false
+  xy: 130, 24
+  size: 154, 115
+  orig: 154, 115
+  offset: 0, 0
+  index: -1
+zd (2)
+  rotate: false
+  xy: 286, 24
+  size: 154, 115
+  orig: 154, 115
+  offset: 0, 0
+  index: -1
+zd (3)
+  rotate: false
+  xy: 442, 27
+  size: 154, 115
+  orig: 154, 115
+  offset: 0, 0
+  index: -1
+zd (4)
+  rotate: false
+  xy: 598, 29
+  size: 154, 115
+  orig: 154, 115
+  offset: 0, 0
+  index: -1
+zd (5)
+  rotate: true
+  xy: 624, 157
+  size: 154, 115
+  orig: 154, 115
+  offset: 0, 0
+  index: -1
+zd (6)
+  rotate: true
+  xy: 741, 157
+  size: 154, 115
+  orig: 154, 115
+  offset: 0, 0
+  index: -1
+zdg2
+  rotate: false
+  xy: 754, 40
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1

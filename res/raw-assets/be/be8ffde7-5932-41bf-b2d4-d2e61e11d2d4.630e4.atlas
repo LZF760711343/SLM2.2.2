@@ -1,0 +1,306 @@
+
+skin5_fight2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5-pifeng1
+  rotate: true
+  xy: 1980, 1979
+  size: 67, 51
+  orig: 67, 51
+  offset: 0, 0
+  index: -1
+5-shou2
+  rotate: true
+  xy: 2, 2
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+5-shou3
+  rotate: false
+  xy: 1990, 167
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+5-xing
+  rotate: false
+  xy: 1980, 1936
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+5-yan
+  rotate: false
+  xy: 42, 23
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+5-yan1
+  rotate: true
+  xy: 1990, 33
+  size: 67, 15
+  orig: 67, 15
+  offset: 0, 0
+  index: -1
+5-zui
+  rotate: false
+  xy: 1990, 102
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+DZ/DZGC1
+  rotate: false
+  xy: 2, 1046
+  size: 1624, 1000
+  orig: 1624, 1000
+  offset: 0, 0
+  index: -1
+DZ/DZGC2
+  rotate: false
+  xy: 2, 44
+  size: 1624, 1000
+  orig: 1624, 1000
+  offset: 0, 0
+  index: -1
+FX/mozhi1
+  rotate: false
+  xy: 1628, 1826
+  size: 350, 220
+  orig: 350, 220
+  offset: 0, 0
+  index: -1
+FX/mozhi2
+  rotate: false
+  xy: 1628, 1604
+  size: 350, 220
+  orig: 350, 220
+  offset: 0, 0
+  index: -1
+FX/mozhi3
+  rotate: false
+  xy: 1628, 1382
+  size: 350, 220
+  orig: 350, 220
+  offset: 0, 0
+  index: -1
+FX/mozhi4
+  rotate: false
+  xy: 1628, 1160
+  size: 350, 220
+  orig: 350, 220
+  offset: 0, 0
+  index: -1
+FX/mozhi5
+  rotate: false
+  xy: 1628, 938
+  size: 350, 220
+  orig: 350, 220
+  offset: 0, 0
+  index: -1
+FX/pm1
+  rotate: true
+  xy: 1628, 576
+  size: 360, 200
+  orig: 360, 200
+  offset: 0, 0
+  index: -1
+FX/pm10
+  rotate: false
+  xy: 1628, 12
+  size: 360, 200
+  orig: 360, 200
+  offset: 0, 0
+  index: -1
+FX/pm2
+  rotate: true
+  xy: 1628, 214
+  size: 360, 200
+  orig: 360, 200
+  offset: 0, 0
+  index: -1
+FX/pm8
+  rotate: true
+  xy: 1830, 576
+  size: 360, 200
+  orig: 360, 200
+  offset: 0, 0
+  index: -1
+FX/pm9
+  rotate: true
+  xy: 1830, 214
+  size: 360, 200
+  orig: 360, 200
+  offset: 0, 0
+  index: -1
+
+skin5_fight22.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5-jiao1
+  rotate: true
+  xy: 1646, 282
+  size: 101, 210
+  orig: 101, 210
+  offset: 0, 0
+  index: -1
+5-jiao2
+  rotate: true
+  xy: 1428, 271
+  size: 112, 216
+  orig: 112, 216
+  offset: 0, 0
+  index: -1
+5-jiao3
+  rotate: true
+  xy: 723, 88
+  size: 92, 210
+  orig: 92, 210
+  offset: 0, 0
+  index: -1
+5-jiao4
+  rotate: true
+  xy: 723, 2
+  size: 84, 194
+  orig: 84, 194
+  offset: 0, 0
+  index: -1
+5-jiao5
+  rotate: true
+  xy: 955, 174
+  size: 82, 196
+  orig: 82, 196
+  offset: 0, 0
+  index: -1
+5-pifeng2
+  rotate: true
+  xy: 598, 80
+  size: 156, 123
+  orig: 156, 123
+  offset: 0, 0
+  index: -1
+5-shou1
+  rotate: false
+  xy: 1153, 189
+  size: 91, 67
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+5-tou
+  rotate: false
+  xy: 1896, 374
+  size: 143, 136
+  orig: 143, 136
+  offset: 0, 0
+  index: -1
+5-wuqi
+  rotate: true
+  xy: 2, 17
+  size: 89, 346
+  orig: 89, 346
+  offset: 0, 0
+  index: -1
+FX/dimo
+  rotate: false
+  xy: 364, 238
+  size: 350, 70
+  orig: 350, 70
+  offset: 0, 0
+  index: -1
+FX/jq1
+  rotate: false
+  xy: 726, 385
+  size: 232, 125
+  orig: 232, 125
+  offset: 0, 0
+  index: -1
+FX/jq2
+  rotate: false
+  xy: 364, 111
+  size: 232, 125
+  orig: 232, 125
+  offset: 0, 0
+  index: -1
+FX/jq3
+  rotate: false
+  xy: 960, 385
+  size: 232, 125
+  orig: 232, 125
+  offset: 0, 0
+  index: -1
+FX/jq4
+  rotate: false
+  xy: 1194, 385
+  size: 232, 125
+  orig: 232, 125
+  offset: 0, 0
+  index: -1
+FX/jq5
+  rotate: false
+  xy: 1428, 385
+  size: 232, 125
+  orig: 232, 125
+  offset: 0, 0
+  index: -1
+FX/jq6
+  rotate: false
+  xy: 1662, 385
+  size: 232, 125
+  orig: 232, 125
+  offset: 0, 0
+  index: -1
+FX/jq7
+  rotate: false
+  xy: 726, 258
+  size: 232, 125
+  orig: 232, 125
+  offset: 0, 0
+  index: -1
+FX/jq8
+  rotate: false
+  xy: 960, 258
+  size: 232, 125
+  orig: 232, 125
+  offset: 0, 0
+  index: -1
+FX/jq9
+  rotate: false
+  xy: 1194, 258
+  size: 232, 125
+  orig: 232, 125
+  offset: 0, 0
+  index: -1
+FX/pm11
+  rotate: false
+  xy: 2, 310
+  size: 360, 200
+  orig: 360, 200
+  offset: 0, 0
+  index: -1
+FX/pm12
+  rotate: false
+  xy: 2, 108
+  size: 360, 200
+  orig: 360, 200
+  offset: 0, 0
+  index: -1
+FX/pm13
+  rotate: false
+  xy: 364, 310
+  size: 360, 200
+  orig: 360, 200
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 723, 182
+  size: 230, 74
+  orig: 230, 74
+  offset: 0, 0
+  index: -1

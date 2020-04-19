@@ -1,0 +1,111 @@
+
+skin5_fight2.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5-jiao1
+  rotate: true
+  xy: 314, 26
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+5-jiao2
+  rotate: false
+  xy: 341, 30
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+5-lian
+  rotate: true
+  xy: 216, 10
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+5-lian1
+  rotate: true
+  xy: 140, 5
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+5-lian2
+  rotate: true
+  xy: 180, 10
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+5-pifeng
+  rotate: false
+  xy: 235, 57
+  size: 130, 69
+  orig: 130, 69
+  offset: 0, 0
+  index: -1
+5-shen
+  rotate: false
+  xy: 368, 2
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+5-shou1
+  rotate: true
+  xy: 140, 52
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+5-shou2
+  rotate: false
+  xy: 180, 56
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+5-tou
+  rotate: false
+  xy: 367, 58
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+5-toufa
+  rotate: true
+  xy: 41, 20
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
+5-weiba
+  rotate: true
+  xy: 437, 68
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+5-yaodai
+  rotate: false
+  xy: 250, 25
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 10
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1
+特效/szh
+  rotate: false
+  xy: 437, 11
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

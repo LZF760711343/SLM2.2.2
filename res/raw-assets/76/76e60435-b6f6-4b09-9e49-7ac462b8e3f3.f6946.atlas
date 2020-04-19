@@ -1,0 +1,90 @@
+
+skin2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-erl
+  rotate: false
+  xy: 393, 96
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+2-err
+  rotate: false
+  xy: 311, 27
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+2-jiaol1
+  rotate: false
+  xy: 451, 102
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+2-jiaor1
+  rotate: false
+  xy: 805, 211
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+2-jiaor2
+  rotate: false
+  xy: 748, 184
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+2-shen
+  rotate: false
+  xy: 2, 98
+  size: 212, 156
+  orig: 212, 156
+  offset: 0, 0
+  index: -1
+2-toufa
+  rotate: true
+  xy: 216, 95
+  size: 159, 175
+  orig: 159, 175
+  offset: 0, 0
+  index: -1
+2-weiba
+  rotate: false
+  xy: 212, 2
+  size: 97, 91
+  orig: 97, 91
+  offset: 0, 0
+  index: -1
+2-yan
+  rotate: false
+  xy: 651, 175
+  size: 95, 79
+  orig: 95, 79
+  offset: 0, 0
+  index: -1
+fx/effect5_02
+  rotate: false
+  xy: 393, 146
+  size: 246, 38
+  orig: 246, 38
+  offset: 0, 0
+  index: -1
+fx/effect5_03
+  rotate: false
+  xy: 393, 186
+  size: 256, 68
+  orig: 256, 68
+  offset: 0, 0
+  index: -1
+yinzi
+  rotate: false
+  xy: 2, 29
+  size: 208, 67
+  orig: 208, 67
+  offset: 0, 0
+  index: -1
